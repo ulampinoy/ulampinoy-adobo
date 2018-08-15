@@ -11,7 +11,7 @@ export default class IndexPage extends React.Component {
       <section className="section">
         <div className="container">
           <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
+            <h1 className="has-text-weight-bold is-size-2">What's New</h1>
           </div>
           {posts
             .map(({ node: post }) => (
@@ -24,8 +24,6 @@ export default class IndexPage extends React.Component {
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
                 </p>
                 <p>
                   {post.excerpt}
