@@ -20,19 +20,17 @@ export default class IndexPage extends React.Component {
                 style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
                 key={post.id}
               >
-                <p>
+                <h2>
                   <Link className="has-text-primary" to={post.fields.slug}>
                     {post.frontmatter.title}
                   </Link>
-                </p>
+                </h2>
                 <p>
                   {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
                 </p>
+                <Link className="button is-small" to={post.fields.slug}>
+                  Keep Reading →
+                </Link>
               </div>
             ))}
         </div>
