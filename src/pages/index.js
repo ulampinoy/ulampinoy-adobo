@@ -7,35 +7,23 @@ export default class IndexPage extends React.Component {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
 
-    return (
-      <section className="section">
-        <div className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">What's New</h1>
-          </div>
-          {posts
-            .map(({ node: post }) => (
-              <div
-                className="content"
-                style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
-                key={post.id}
-              >
-                <h2>
-                  <Link className="has-text-primary" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                </h2>
-                <p>
-                  {post.excerpt}
-                </p>
-                <Link className="button is-small" to={post.fields.slug}>
-                  Keep Reading →
-                </Link>
+    return <div className="wrapper">
+        <section className="Section">
+          {posts.map(({ node: post }) => (
+            <div className="post-preview" key={post.id}>
+              <div>
+                <h1>
+                  <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
+                </h1>
+                <p>{post.frontmatter.description}</p>
               </div>
-            ))}
-        </div>
-      </section>
-    )
+              <div>
+                <img src={post.frontmatter.coverImage} />
+              </div>
+            </div>
+          ))}
+        </section>
+      </div>;
   }
 }
 
@@ -62,6 +50,8 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
+            coverImage
             templateKey
             date(formatString: "MMMM DD, YYYY")
           }

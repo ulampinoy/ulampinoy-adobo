@@ -6,6 +6,7 @@ description: Brewing with a Chemex probably seems like a complicated, time-consu
 tags:
   - brewing
   - chemex
+coverImage: /img/la-bahia-noodle-soup-bowls.jpg
 ---
 ![chemex](/img/chemex.jpg)
 

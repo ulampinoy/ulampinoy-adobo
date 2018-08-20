@@ -17,6 +17,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             frontmatter {
               tags
               templateKey
+              coverImage
             }
           }
         }
@@ -35,6 +36,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
+        coverImage: edge.node.frontmatter.coverImage,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),

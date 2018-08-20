@@ -11,38 +11,35 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
+  coverImage,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
 
-  return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map(tag => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
+  return <section>
+      {helmet || ""}
+          <div className="wrapper">
+            <div className="gridPost">
+              <article>
+                <h1>{title}</h1>
+                <p className="article-desc">{description}</p>
+                <PostContent content={content} />
+                {tags && tags.length ? <div style={{ marginTop: `4rem` }}>
+                    <h4>Tags</h4>
+                    <ul className="taglist">
+                      {tags.map(tag => <li key={tag + `tag`}>
+                          <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                        </li>)}
+                    </ul>
+                  </div> : null}
+              </article>
+              <aside>
+                <div className="liner"></div>
+                <h3>Top Stories</h3>
+              </aside>
+            </div>
           </div>
-        </div>
-      </div>
-    </section>
-  )
+    </section>;
 }
 
 BlogPostTemplate.propTypes = {
@@ -50,6 +47,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  cover: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -61,6 +59,7 @@ const BlogPost = ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
+      coverImage={post.frontmatter.coverImage}
       helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
@@ -85,6 +84,7 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
+        coverImage
         tags
       }
     }
