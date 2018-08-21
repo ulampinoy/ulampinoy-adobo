@@ -17,29 +17,32 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return <section>
-      {helmet || ""}
-          <div className="wrapper">
-            <div className="gridPost">
-              <article>
-                <h1>{title}</h1>
-                <p className="article-desc">{description}</p>
-                <PostContent content={content} />
-                {tags && tags.length ? <div style={{ marginTop: `4rem` }}>
-                    <h4>Tags</h4>
-                    <ul className="taglist">
-                      {tags.map(tag => <li key={tag + `tag`}>
-                          <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                        </li>)}
-                    </ul>
-                  </div> : null}
-              </article>
-              <aside>
-                <div className="liner"></div>
-                <h3>Top Stories</h3>
-              </aside>
-            </div>
-          </div>
-    </section>;
+    {helmet || ""}
+    <div className="wrapper">
+      <section className="hero-post">
+        <img src={coverImage} />
+      </section>
+      <div className="gridPost">
+        <article>
+          <h1>{title}</h1>
+          <p className="article-desc">{description}</p>
+          <PostContent content={content} />
+          {tags && tags.length ? <div style={{ marginTop: `4rem` }}>
+              <h4>Tags</h4>
+              <ul className="taglist">
+                {tags.map(tag => <li key={tag + `tag`}>
+                    <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                  </li>)}
+              </ul>
+            </div> : null}
+        </article>
+        <aside>
+          <div className="liner"></div>
+          <h3>Top Stories</h3>
+        </aside>
+      </div>
+    </div>
+  </section>;
 }
 
 BlogPostTemplate.propTypes = {

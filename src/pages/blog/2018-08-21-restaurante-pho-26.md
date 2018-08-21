@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Restaurante Pho 26
 date: '2018-05-09T08:57:25+02:00'
 description: Maging turista sa sarili mong bayan
+coverImage: /img/restaurant-pho-26.jpg
 tags:
   - pho
   - vietnamese

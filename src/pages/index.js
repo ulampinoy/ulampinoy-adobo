@@ -13,13 +13,16 @@ export default class IndexPage extends React.Component {
             <div className="post-preview" key={post.id}>
               <div>
                 <h1>
-                  <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
+                  <Link to={post.fields.slug}>
+                    {post.frontmatter.title}
+                  </Link>
                 </h1>
                 <p>{post.frontmatter.description}</p>
+                <p>{post.excerpt}</p>
               </div>
-              <div>
+              <Link to={post.fields.slug}>
                 <img src={post.frontmatter.coverImage} />
-              </div>
+              </Link>
             </div>
           ))}
         </section>
@@ -43,7 +46,7 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          excerpt(pruneLength: 400)
+          excerpt(pruneLength: 240)
           id
           fields {
             slug
