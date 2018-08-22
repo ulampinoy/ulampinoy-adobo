@@ -34,4 +34,4 @@ Napadpad kami sa Calle Leganitos at naroon ang Pho 26! Good sign dahil pagpasok 
 
 ![Crispy fried duck](/img/fried-duck.jpg)
 
-Masarap na tanghalian at ready na para mamasyal. Next stop, Real Jardín Botanico de Madrid!
+Masarap na tanghalian at ready na para mamasyal. Next stop, **Real Jardín Botanico de Madrid!**

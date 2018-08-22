@@ -4,6 +4,7 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
+import { Url } from 'url';
 
 export const BlogPostTemplate = ({
   content,
@@ -17,32 +18,34 @@ export const BlogPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return <section>
-    {helmet || ""}
-    <div className="wrapper">
-      <section className="hero-post">
-        <img src={coverImage} />
-      </section>
-      <div className="gridPost">
-        <article>
-          <h1>{title}</h1>
-          <p className="article-desc">{description}</p>
-          <PostContent content={content} />
-          {tags && tags.length ? <div style={{ marginTop: `4rem` }}>
-              <h4>Tags</h4>
-              <ul className="taglist">
+      {helmet || ""}
+      <div className="wrapper">
+        <div className="billboard">
+        <div className="billboard-image" style={{ backgroundImage: `url(${coverImage})`}}>
+        </div>
+        </div>
+        <div className="gridPost">
+          <article>
+            <h1>{title}</h1>
+            <p className="article-desc">{description}</p>
+            <PostContent content={content} />
+            {tags && tags.length ?
+            <div className="tags">
+              <div className="liner" />
+              <ul className="tags-list">
                 {tags.map(tag => <li key={tag + `tag`}>
                     <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
                   </li>)}
               </ul>
             </div> : null}
-        </article>
-        <aside>
-          <div className="liner"></div>
-          <h3>Top Stories</h3>
-        </aside>
+          </article>
+          <aside>
+            <div className="liner" />
+            <h3>Top Stories</h3>
+          </aside>
+        </div>
       </div>
-    </div>
-  </section>;
+    </section>;
 }
 
 BlogPostTemplate.propTypes = {
