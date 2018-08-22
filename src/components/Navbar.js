@@ -14,8 +14,17 @@ const Navbar = () => (
             </Link>
           </div>
           <div className="header-menu">
-            <Link to="/about">About</Link>
-            <Link to="/products">Products</Link>
+            <Link to="/videos"
+              activeStyle={{
+              borderBottom: '2px solid #909090',
+              paddingBottom: '.5rem'
+              }}
+            >Videos
+            </Link>
+            <Link to="/about" activeStyle={{
+              borderBottom: '2px solid #909090',
+              paddingBottom: '.5rem'
+              }}>About</Link>
           </div>
         </nav>
       </div>
