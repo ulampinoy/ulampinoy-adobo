@@ -80,7 +80,7 @@ header {
     a {
       list-style-type: none;
       display: inline-block;
-      padding: .5rem;
+      padding: 0.5rem;
       margin-left: 1rem;
     }
   }
@@ -92,6 +92,12 @@ article {
   h1 {
     font-size: 3.2rem;
     font-weight: 500;
+  }
+
+  h3 {
+    text-transform: uppercase;
+    font-family: "Exo 2", sans-serif;
+    letter-spacing: 0.1rem;
   }
 
   p {
@@ -106,18 +112,20 @@ article {
     }
 
     img {
-        margin: 1rem 0;
+      margin: 1rem 0;
     }
   }
 
-  ul {
-      padding: 0;
-      font-size: 1.3rem;
-      margin-bottom: 3rem;
+  ul,
+  ol {
+    padding: 0;
+    font-size: 1.3rem;
+    margin-bottom: 3rem;
 
-      li {
-          padding: .2rem 0;
-      }
+    li {
+      padding: 0.5rem 0;
+
+    }
   }
 }
 
@@ -152,7 +160,6 @@ article {
   margin-top: 2rem;
   text-transform: uppercase;
   font-family: "Exo 2", sans-serif;
-  font-size: 0.6rem;
   letter-spacing: 0.1rem;
 
   &-list {
@@ -164,6 +171,7 @@ article {
       margin-right: 0.5rem;
 
       a {
+        font-size: 0.7rem;
         background-color: #c0c0c0;
         color: #fff;
         padding: 0.4rem 0.5rem;
@@ -181,5 +189,22 @@ article {
     width: 2.7rem;
     height: 2px;
     background-color: currentColor;
+  }
+}
+
+.video-preview {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 3rem;
+
+  &-card {
+    h1 {
+      font-size: 1.4rem;
+      margin-top: 1rem;
+    }
+
+    p {
+      font-size: 1rem;
+    }
   }
 }

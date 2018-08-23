@@ -9,22 +9,21 @@ export default class IndexPage extends React.Component {
 
     return <div className="wrapper">
         <section className="Section">
-          {posts.map(({ node: post }) => (
-            <div className="post-preview" key={post.id}>
-              <div>
-                <h1>
+          <div className="video-preview">
+            {posts.map(({ node: post }) => (
+              <div className="video-preview-card" key={post.id}>
                   <Link to={post.fields.slug}>
-                    {post.frontmatter.title}
+                    <img src={post.frontmatter.coverImage} />
                   </Link>
-                </h1>
-                <p>{post.frontmatter.description}</p>
-                <p>{post.excerpt}</p>
+                  <h1>
+                    <Link to={post.fields.slug}>
+                      {post.frontmatter.title}
+                    </Link>
+                  </h1>
+                  <p>{post.frontmatter.description}</p>
               </div>
-              <Link to={post.fields.slug}>
-                <img src={post.frontmatter.coverImage} />
-              </Link>
-            </div>
-          ))}
+            ))}
+          </div>
         </section>
       </div>;
   }
