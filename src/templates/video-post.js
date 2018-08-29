@@ -4,7 +4,6 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
-import { Url } from 'url';
 
 export const VideoPostTemplate = ({
   content,

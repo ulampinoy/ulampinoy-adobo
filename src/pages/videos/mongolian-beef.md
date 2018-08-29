@@ -9,7 +9,7 @@ tags:
   - wok
 ---
 
-Napakasarap at madaling lutuing beef stir-fry na saktong-sakto ulam.
+Ang masarap na beef dish na madalas na inoorder sa labas ay puede mo ng gawin sa bahay. Hindi naman mahirap hanapin ang mga sangkap at opsyonal naman ang ibang ingredients kung hindi ito available sa inyo gaya ng Chinese cooking wine.
 
 ### BEEF at MARINADE:
 * 1 kg. beef
@@ -30,4 +30,4 @@ Napakasarap at madaling lutuing beef stir-fry na saktong-sakto ulam.
 * Green onion
 * Roasted sesame seeds
 
-Kain na! At huwag mag-atubiling **mag-subscribe** at paki-share ang ulam Pinoy. Salamat!
+Kain na! At huwag mag-atubiling [mag-subscribe](https://www.youtube.com/user/ulampinoy) at paki-share ang ulam Pinoy. Salamat!

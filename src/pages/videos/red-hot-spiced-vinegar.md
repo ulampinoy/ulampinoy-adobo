@@ -23,6 +23,7 @@ We're back in the kitchen for the 3rd Season of UlamPinoy! For our first episode
 * Salt and black pepper to taste
 * Water
 
-{{< figure src="/img/photos/chopsuey-cooking-wok.jpg" title="Cooking chopsuey in a wok" >}}
+![Cooking chopsuey in a wok](/img/chopsuey-cooking-wok.jpg)
+`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
 
 
