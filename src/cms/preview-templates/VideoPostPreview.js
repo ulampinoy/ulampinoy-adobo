@@ -8,6 +8,7 @@ const VideoPostPreview = ({ entry, widgetFor }) => (
     description={entry.getIn(['data', 'description'])}
     tags={entry.getIn(['data', 'tags'])}
     title={entry.getIn(['data', 'title'])}
+    coverImage={entry.getIn(['data', 'cover-image'])}
   />
 )
 

@@ -10,7 +10,7 @@ tags:
   - beef
 ---
 
-Beef caldereta is one those dishes other than in the food shops that you can have only in a special meal (handaan).
+Beef caldereta is one those dishes that you eagerly expect in special ocassion meal (handaan). It's a bit elaborate to prepare compare to the ubiquitous Adobo.
 
 ### INGREDIENTS:
 * Beef chunks
