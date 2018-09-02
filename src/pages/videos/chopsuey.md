@@ -30,7 +30,7 @@ Add the oyster sauce, salt and black pepper to taste. Use 2 big wooden spoons or
 
 Turn off heat and plate it right away to prevent over-cooking the vegetables.
 
-![Chopsuey on a plate ready to serve](/img/photos/chopsuey-plated.jpg)
+![Chopsuey on a plate ready to serve](/img/chopsuey-plated.jpg)
 
 Topped with boiled quail eggs as special garnish (which we don't have this time)
 

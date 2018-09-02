@@ -13,14 +13,13 @@ tags:
 Beef caldereta is one those dishes that you eagerly expect in special ocassion meal (handaan). It's a bit elaborate to prepare compare to the ubiquitous Adobo.
 
 ### INGREDIENTS:
-* Beef chunks
-* Tomatoes, red and ripe
-* Pineapple, chunks and juice from the can
-* Liver spread, small can
-* Potato and carrot
-* Red and green sweet peppers
-* Laurel leaves
-* Salt and black pepper to taste
-* Water
 
-
+- Beef chunks
+- Tomatoes, red and ripe
+- Pineapple, chunks and juice from the can
+- Liver spread, small can
+- Potato and carrot
+- Red and green sweet peppers
+- Laurel leaves
+- Salt and black pepper to taste
+- Water
