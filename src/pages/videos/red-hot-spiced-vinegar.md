@@ -12,7 +12,7 @@ tags:
 
 We're back in the kitchen for the 3rd Season of UlamPinoy! For our first episode we are cooking a very popular Filipino vegetable stir-fry recipe – Chopsuey.
 
-### INGREDIENTS:
+### Ingredients
 * Beef chunks
 * Tomatoes, red and ripe
 * Pineapple, chunks and juice from the can
@@ -23,7 +23,8 @@ We're back in the kitchen for the 3rd Season of UlamPinoy! For our first episode
 * Salt and black pepper to taste
 * Water
 
-![Cooking chopsuey in a wok](/img/chopsuey-cooking-wok.jpg)
-`youtube:https://www.youtube.com/embed/2Xc9gXyf2G4`
+### Procedure
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/Vf1-PuCyGt0`
 
 
