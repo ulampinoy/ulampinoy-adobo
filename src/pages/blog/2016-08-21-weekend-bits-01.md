@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Kesong Kambing, Talong Pickle at Alamang
-date: '2016-08-21T22:59:33+02:00'
+date: 2016-08-21T22:59:33+02:00
 description: Unang edisyon ng weekend tsibog adventures
-whetter: 'Tsibog sa Weekend 01'
+whetter: Tsibog sa Weekend 01
 coverImage: /img/queso-cabra--pickeled-olives-eggplants.jpg
 ---
 
