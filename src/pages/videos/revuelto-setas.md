@@ -17,7 +17,7 @@ Simple to make Spanish omelette of mixed mushrooms and chorizo
 * Eggs
 * Spanish chorizo
 
-(/img/egg-dance.gif"[Eggs dancing on a tray]
+![Eggs dancing on a tray](/img/egg-dance.gif)
 
 
 

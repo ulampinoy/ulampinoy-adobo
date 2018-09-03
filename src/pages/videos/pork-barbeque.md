@@ -30,5 +30,5 @@ Pork belly strips marinated with spice soy sauce
 * cooking oil
 * ketchup
 
-(/img/pork-belly-barbecue-01.jpg)[]
+![Pork liempo BBQ](/img/pork-belly-barbecue-01.jpg)
 

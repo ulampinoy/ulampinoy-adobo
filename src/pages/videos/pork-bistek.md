@@ -22,4 +22,4 @@ Pork chops marinated and braised in soy sauce, lemon juice, garlic and spices. F
 * black pepper to taste
 * 1/2 cup cooking oil for frying
 
-(/img/pork-bistek-dish.jpg)[Pork bistek with red onion rings]
+![Pork bistek with red onion rings](/img/pork-bistek-dish.jpg)

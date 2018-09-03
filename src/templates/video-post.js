@@ -39,8 +39,6 @@ export const VideoPostTemplate = ({
             </div> : null}
         </article>
         <aside>
-          <div className="liner" />
-          <h3>Top Stories</h3>
         </aside>
       </div>
     </div>

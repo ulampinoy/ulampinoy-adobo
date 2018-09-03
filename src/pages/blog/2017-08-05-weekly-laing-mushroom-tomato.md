@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Laing ni Popeye
 date: 2017-08-05T01:03:54+02:00
 description: Laing na yata ang pinakamasarap na ulam na gulay. Period.
-whetter: 'Weekly: Spinach kung walang gabi'
+whetter: Weekly - Spinach kung walang gabi
 coverImage: /img/laing-spinach.jpg
 tags:
     - gulay

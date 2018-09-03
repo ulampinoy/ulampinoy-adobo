@@ -3,6 +3,7 @@ templateKey: blog-post
 title: La Bahía
 date: 2017-08-16T24:04:10.000Z
 description: Kapag Chinese food ang nais, madalas kaming bumabalik sa aming paboritong Chinese restaurant sa Madrid.
+whetter: Masarap na chinese adbentur
 coverImage: /img/la-bahia-entrance.jpg
 tags:
   - chinese

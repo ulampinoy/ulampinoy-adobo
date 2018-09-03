@@ -13,15 +13,15 @@ tags:
 
 Fresh squids cooked adobo style! We love it very much and it really shows – this is the second video of Adobong Pusit
 
-(/img/fresh-squids.jpg) alt="Wash and drain the squids thoroughly]
+![Wash and drain the squids thoroughly](/img/fresh-squids.jpg)
 
 Preserve the ink duct if you buy the squid fresh or you can always use squid/cuttlefish ink sold in packets. Most supermarkets here in Madrid sell "tinta de sepia/calamar"
 
-(/img/tinta-sepia-packet.jpg)[Cuttlefish ink packet]
+![Cuttlefish ink packet](/img/tinta-sepia-packet.jpg)
 
 Cook the squid at high heat in less time until it gets tender and add the vinegar for last. Over cooking makes it rubbery.
 
-(/img/squid-adobo-simmering.jpg)[Cooking squid adobo]
+![Cooking squid adobo](/img/squid-adobo-simmering.jpg)
 
 Squid adobo is great as a rice topping or with a glass of beer or white wine. Just be conscious when you smile while you eat (or never mind if everybody is having it)!
 

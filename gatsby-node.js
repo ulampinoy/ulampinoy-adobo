@@ -18,6 +18,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               tags
               templateKey
               coverImage
+              whetter
             }
           }
         }
@@ -37,6 +38,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
         coverImage: edge.node.frontmatter.coverImage,
+        whetter: edge.node.frontmatter.whetter,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),

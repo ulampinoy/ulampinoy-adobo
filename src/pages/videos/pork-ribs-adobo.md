@@ -22,7 +22,8 @@ Pork ribs adobo with potatoes
 * 1 cup water
 * 1/2 cup cooking oil for frying the potatoes
 
-(/img/pork-ribs-adobo-rice.jpg)[]
+![Delicious pork ribs adobo rice toppings](/img/pork-ribs-adobo-rice.jpg)
+
 
 
 

@@ -21,8 +21,8 @@ Seafoods stew of fish, shrimp, talbos ng kamote (sweet potato young leaves), tom
 * 1/2 cup water
 * salt and black pepper to taste
 
-(/img/talbos-kamote.jpg)[Fresh sweet potato tops]
+![Fresh sweet potato tops](/img/talbos-kamote.jpg)
 
-(/img/fish-shrimp-chilis.jpg)[Fresh sweet potato tops]
+![Mga sangkap: isda, hipon at sili](/img/fish-shrimp-chilis.jpg)
 
-(/img/sinigang-hipon-isda.jpg)[]
+![Sinigang na hipon](/img/sinigang-hipon-isda.jpg)

@@ -24,11 +24,11 @@ Savory and revitalizing chicken broth soup spiced with ginger, garlic, onions an
 * Patis (fish sauce)
 * Salt to taste
 
-(/img/fresh-chicken-cuts.jpg)[Fresh chicken cuts]
+![Fresh chicken cuts](/img/fresh-chicken-cuts.jpg)
 
-(/img/fresh-pechay.jpg)[Fresh pechay]
+![Fresh pechay](/img/fresh-pechay.jpg)
 
-(/img/upo-cuts.jpg)[Bottle gourd gives the broth a sublte sweetness]
+![Bottle gourd gives the broth a sublte sweetness](/img/upo-cuts.jpg)
 
-(/img/chicken-broth-pot.jpg)[It's in the broth]
+![It's in the broth](/img/chicken-broth-pot.jpg)
 

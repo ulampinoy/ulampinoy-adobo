@@ -19,6 +19,6 @@ Crispy, golden and garlicky pork belly
 * 1/2 cup water
 * salt and black pepper to taste
 
-(/img/fresh-pork-belly-garlic.jpg)[Fresh pork belly and handful of garlic cloves]
+![Fresh pork belly and handful of garlic cloves](/img/fresh-pork-belly-garlic.jpg)
 
-(/img/garlic-pork-belly.jpg)[Crispy garlic loaded liempo]
+![Crispy garlic loaded liempo](/img/garlic-pork-belly.jpg)

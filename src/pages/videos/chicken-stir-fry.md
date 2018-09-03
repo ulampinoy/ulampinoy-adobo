@@ -17,6 +17,6 @@ Fire up your wok and cook along with our easy to make chicken and vegetable stir
 * Chicken
 * Vegetables
 
-(/img/red-bell-pepper-chopping-board.jpg)[Red bell pepper on chopping board]
+![Red bell pepper on chopping board](/img/red-bell-pepper-chopping-board.jpg)
 
 

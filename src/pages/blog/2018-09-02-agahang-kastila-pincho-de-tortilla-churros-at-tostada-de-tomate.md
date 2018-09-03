@@ -1,16 +1,15 @@
 ---
 templateKey: blog-post
-title: 'Agahang Kastila: Pincho de Tortilla, Churros at Tostada de Tomate'
-date: '2017-08-16T23:30:08+02:00'
+title: "Agahang Kastila: Pincho de Tortilla, Churros at Tostada de Tomate"
+date: 2017-08-16T23:30:08+02:00
+description: Ang tipikal na agahang Kastila ay kalimitang magaang lang kasama ng kape kadalasan o tsaa
+whetter: Almusal castizo
 coverImage: /img/pincho-tortilla.jpg
-description: >-
-  Ang tipikal na agahang Kastila ay kalimitang magaang lang kasama ng kape
-  kadalasan o tsaa
 tags:
   - spain
   - breakfast
 ---
-Ang tipikal na agahang Kastila ay kalimitang magaang lang. Nariyan ang ikonikong *churros.*
+Ang tipikal na agahang Kastila ay simple lang. Nariyan ang ikonikong *churros.*
 
 ![Churros and Freshly-squeezed Orange Juice](/img/churros-zumo.jpg)
 

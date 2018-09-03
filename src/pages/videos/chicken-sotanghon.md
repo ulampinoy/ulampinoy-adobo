@@ -26,6 +26,6 @@ Got colds or just feeling cold?? Here is a delicious way to get well and warm!
 * green onions &toasted garlic
 * chili oil
 
-(/img/vermecelli-noodles.jpg)[Also known as glass noodles]
+![Also known as glass noodles](/img/vermecelli-noodles.jpg)
 
 

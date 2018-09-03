@@ -13,6 +13,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   coverImage,
+  whetter,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -21,11 +22,12 @@ export const BlogPostTemplate = ({
       {helmet || ""}
       <div className="wrapper">
         <div className="billboard">
-        <div className="billboard-image" style={{ backgroundImage: `url(${coverImage})`}}>
-        </div>
+          <div className="billboard-image" style={{ backgroundImage: `url(${coverImage})`}}>
+          </div>
         </div>
         <div className="gridPost">
           <article>
+            <h4 className="whetter">{whetter}</h4>
             <h1>{title}</h1>
             <p className="article-desc">{description}</p>
             <PostContent content={content} />
@@ -40,8 +42,6 @@ export const BlogPostTemplate = ({
             </div> : null}
           </article>
           <aside>
-            <div className="liner" />
-            <h3>Top Stories</h3>
           </aside>
         </div>
       </div>
@@ -54,6 +54,7 @@ BlogPostTemplate.propTypes = {
   description: PropTypes.string,
   title: PropTypes.string,
   cover: PropTypes.string,
+  whetter: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -69,6 +70,7 @@ const BlogPost = ({ data }) => {
       helmet={<Helmet title={`${post.frontmatter.title} | Blog`} />}
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
+      whetter={post.frontmatter.whetter}
     />
   )
 }
@@ -91,6 +93,7 @@ export const pageQuery = graphql`
         title
         description
         coverImage
+        whetter
         tags
       }
     }

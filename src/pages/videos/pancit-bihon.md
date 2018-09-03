@@ -24,5 +24,5 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 * black pepper
 * cooking oil
 
-(/img/pancit-bihon-dish-01.jpg)[]
+![Tasty pancit bihon guisado](/img/pancit-bihon-dish-01.jpg)
 
