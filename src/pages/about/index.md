@@ -2,10 +2,11 @@
 templateKey: 'about-page'
 path: /about
 title: Tungkol sa Amin
+description: 'Kami ay pamilyang Filipino na kasalukuyang naninirahan at nakabase sa España'
 ---
 
 ### Panimula
-Nagsimula ang Ulampinoy bilang isang food journal ng mga recipes na niluluto namin sa bahay at marami pang ibang masasarap na tuklas nang kami nag-migrate. Kalaunan, ginawa namin ang YouTube cooking channel bilang isang family project na sa paanuman ay magsilbing guide sa aming mga anak kapag lumaki na sila at matutong magluto. Ang bawat video  recipe ay may kuwento at ala-ala sa amin bukod pa sa napakasayang panahon magkakasama kami sa kusina!
+Nagsimula ang Ulampinoy bilang isang food journal ng mga recipes na niluluto namin sa bahay at marami pang ibang masasarap na tuklas nang kami nag-migrate. Kalaunan, ginawa namin ang YouTube cooking channel bilang isang family project na sa paanuman ay magsilbing guide sa aming mga anak kapag lumaki na sila at matutong magluto. Ang bawat video recipe ay may kuwento at ala-ala sa amin bukod pa sa napakasayang panahon magkakasama kami sa kusina!
 
 Sa kasalukuyan ang channel ay may mahigit 57,250 subscribers at ang mga video recipes ay napanood ng higit sa 9 million beses.
 

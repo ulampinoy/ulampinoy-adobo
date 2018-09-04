@@ -12,8 +12,13 @@ tags:
 Long weekend o sa lokal na tawag, _"super puente"._ Habang karamihan dito sa Madrid ay nasa labas ng ciudad, kaming pamilya naman ay nag-stroll sa centro—tourist mode!
 
 ![Plaza de España](/img/fountain-pza-españa.jpg)
+![Pigeon Park](/img/pigeons-feeding.jpg)
 
-Nag-umpisa ang aming pamamasyal sa Plaza de España umaasang makapanananghalian kami sa Chinese restaurant na matagal ng ibinubulong sa amin. Sikat pero misteryosong kainan sa ilalim ng Plaza de España. Oo literal na nasa ilalim, kasi nasa underground parking ito.
+Nag-umpisa ang aming pamamasyal sa Plaza de España umaasang makapanananghalian kami sa Chinese restaurant na matagal ng ibinubulong sa amin.
+
+![Sculpures and monument in Plaza de España, Madrid](/img/monument-pza-espanya.jpg)
+
+Sikat pero misteryosong kainan sa ilalim ng Plaza de España. Oo literal na nasa ilalim, kasi nasa underground parking ito.
 
 ![Underground parking of Plaza de España](/img/underground-pza-spain.jpg)
 

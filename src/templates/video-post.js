@@ -17,32 +17,29 @@ export const VideoPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return <section>
-    {helmet || ""}
-    <div className="wrapper">
-      <div className="billboard">
-        <div className="billboard-image" style={{ backgroundImage: `url(${coverImage})` }}>
+      {helmet || ""}
+      <div className="wrapper">
+        <div className="billboard">
+          <div className="billboard-image" style={{ backgroundImage: `url(${coverImage})` }} />
+        </div>
+        <div className="gridPost">
+          <article>
+            <h1>{title}</h1>
+            <p className="article-desc">{description}</p>
+            <PostContent content={content} />
+            {tags && tags.length ? <div className="tags">
+                <div className="liner" />
+                <ul className="tags-list">
+                  {tags.map(tag => <li key={tag + `tag`}>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                    </li>)}
+                </ul>
+              </div> : null}
+          </article>
+          <aside />
         </div>
       </div>
-      <div className="gridPost">
-        <article>
-          <h1>{title}</h1>
-          <p className="article-desc">{description}</p>
-          <PostContent content={content} />
-          {tags && tags.length ?
-            <div className="tags">
-              <div className="liner" />
-              <ul className="tags-list">
-                {tags.map(tag => <li key={tag + `tag`}>
-                  <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                </li>)}
-              </ul>
-            </div> : null}
-        </article>
-        <aside>
-        </aside>
-      </div>
-    </div>
-  </section>;
+    </section>;
 }
 
 VideoPostTemplate.propTypes = {
