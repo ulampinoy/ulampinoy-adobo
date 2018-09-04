@@ -24,10 +24,6 @@ Hearty beef stew slowly cooked in tomatoes, potatoes and vegetables.
 - 1 cup water
 - salt & black pepper to taste
 
-![Fresh chicken cuts](/img/fresh-chicken-cuts.jpg)
-
-![Fresh pechay](/img/fresh-pechay.jpg)
-
-![Bottle gourd gives the broth a sublte sweetness](/img/upo-cuts.jpg)
-
-![It's in the broth](/img/chicken-broth-pot.jpg)
+### Video
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/YMd408JUZRw`

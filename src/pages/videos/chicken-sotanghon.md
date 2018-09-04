@@ -28,4 +28,8 @@ Got colds or just feeling cold?? Here is a delicious way to get well and warm!
 
 ![Also known as glass noodles](/img/vermecelli-noodles.jpg)
 
+### Video
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/W-5lRLncO6c`
+
 

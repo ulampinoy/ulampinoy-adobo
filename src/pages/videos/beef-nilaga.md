@@ -23,5 +23,7 @@ Slow cooked beef stew with vegetables
 * 3-4 tbsp. patis to taste
 * spring onions for garnish
 
-![Beef nilaga](/img/beef-nilaga.jpg)
+### Video
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/JYdn6-QMjqA`
 

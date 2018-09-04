@@ -25,10 +25,15 @@ Savory and revitalizing chicken broth soup spiced with ginger, garlic, onions an
 * Salt to taste
 
 ![Fresh chicken cuts](/img/fresh-chicken-cuts.jpg)
+Using the different cuts from the whole chicken gives the recipe more range of flavors and textures. Economical too!
 
 ![Fresh pechay](/img/fresh-pechay.jpg)
-
 ![Bottle gourd gives the broth a sublte sweetness](/img/upo-cuts.jpg)
+The vegetables can be replaced with what you have like _dahon ng sili_, malunggay, green papaya, etc.
+
+### Video
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/ZtMlLIxgQcU`
 
 ![It's in the broth](/img/chicken-broth-pot.jpg)
-
+More power to all and have a great week ahead! 💪🏼

@@ -40,5 +40,9 @@ Mince the garlic, slice the onions and chop the tomatoes.
 5. Add the tomato sauce. Stir. Add the bell peppers. Put in the green peas.
 6. Salt to taste. Season with black pepper.
 
+### Video
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/YKF7N-6_PuI`
+
 Happy cooking and show us your version of Chicken Afritada via [Instagram](https://instagram.com/ulampinoy/) with **#ulampinoy**
 

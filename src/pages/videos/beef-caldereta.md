@@ -23,3 +23,7 @@ Beef caldereta is one those dishes that you eagerly expect in special ocassion m
 - Laurel leaves
 - Salt and black pepper to taste
 - Water
+
+### Video
+Watch and cook-along with the video recipe.
+`youtube:https://www.youtube.com/embed/BotTbCKuGJA`
