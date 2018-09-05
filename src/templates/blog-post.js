@@ -4,7 +4,6 @@ import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
 import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
-import { Url } from 'url';
 
 export const BlogPostTemplate = ({
   content,
@@ -92,9 +91,9 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         title
         description
-        coverImage
         whetter
         tags
+        coverImage
       }
     }
   }
