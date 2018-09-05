@@ -21,17 +21,17 @@ module.exports = {
     },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
-    "gatsby-remark-embed-youtube",
+    "gatsby-remark-embed-video",
     "gatsby-remark-responsive-iframe",
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-embed-youtube",
+            resolve: "gatsby-remark-embed-video",
             options: {
-              width: 800,
-              height: 400
+              related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+              noIframeBorder: true //Optional: Disable insertion of <style> border: 0
             }
           }
         ]

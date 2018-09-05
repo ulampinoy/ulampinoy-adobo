@@ -33,6 +33,7 @@ The vegetables can be replaced with what you have like _dahon ng sili_, malungga
 
 ### Video
 Watch and cook-along with the video recipe.
+
 `youtube:https://www.youtube.com/embed/ZtMlLIxgQcU`
 
 ![It's in the broth](/img/chicken-broth-pot.jpg)
