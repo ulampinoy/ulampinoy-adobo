@@ -13,15 +13,10 @@ tags:
 We're back in the kitchen for the 3rd Season of UlamPinoy! For our first episode we are cooking a very popular Filipino vegetable stir-fry recipe – Chopsuey.
 
 ### Ingredients
-* Beef chunks
-* Tomatoes, red and ripe
-* Pineapple, chunks and juice from the can
-* Liver spread, small can
-* Potato and carrot
-* Red and green sweet peppers
-* Laurel leaves
-* Salt and black pepper to taste
-* Water
+* Hot chili peppers
+* Garlic
+* Black peppercorns
+* Vinegar
 
 ### Procedure
 Watch and cook-along with the video recipe.

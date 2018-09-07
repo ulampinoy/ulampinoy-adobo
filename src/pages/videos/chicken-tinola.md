@@ -16,7 +16,7 @@ Savory and revitalizing chicken broth soup spiced with ginger, garlic, onions an
 * Whole chicken, 1 pc. cut into portions
 * Upo (bottle gourd), 1 medium cut into chunks
 * Pechay (Chinese cabbage, bok choi is great alternative), stalks and leaves separated
-* Mild long green chilis
+* Mild long green chilis (siling haba)
 * Ginger, peeled and sliced
 * Garlic
 * Onions
@@ -37,4 +37,5 @@ Watch and cook-along with the video recipe.
 `youtube:https://www.youtube.com/embed/ZtMlLIxgQcU`
 
 ![It's in the broth](/img/chicken-broth-pot.jpg)
+
 More power to all and have a great week ahead! 💪🏼

@@ -23,3 +23,8 @@ Squash, string beans and live crabs cooked in spiced coconut milk. Savoury and s
 ![Fresh kalabasa](/img/squash-wedge.jpg)
 
 ![Fresh from the market live crab](/img/fresh-live-crab.jpg)
+
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/8cOuaPWZL4Q`

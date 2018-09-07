@@ -9,7 +9,7 @@ tags:
     - chicken
 ---
 
-Got colds or just feeling cold?? Here is a delicious way to get well and warm!
+Got colds or just feeling cold? Here is a delicious way to get well and stay warm!
 
 ### INGREDIENTS:
 * 1 large chicken cut (leg-thigh)
@@ -30,6 +30,7 @@ Got colds or just feeling cold?? Here is a delicious way to get well and warm!
 
 ### Video
 Watch and cook-along with the video recipe.
+
 `youtube:https://www.youtube.com/embed/W-5lRLncO6c`
 
 

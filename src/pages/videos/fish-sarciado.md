@@ -26,3 +26,8 @@ Slow cooked beef stew with vegetables
 
 ![Sarciadong isda](/img/fish-sarciado-02.jpg)
 
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/RwhuXRDfPWk`
+

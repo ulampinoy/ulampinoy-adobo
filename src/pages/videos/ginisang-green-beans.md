@@ -17,5 +17,12 @@ Easy to cook sautéed green beans with crispy pork belly
 * Pork belly
 
 ![Sauté the pork belly until golden brown](/img/golder-brown-pork-belly.jpg)
+Sauté the pork belly until golden brown
 
 ![Covering while simmering tenderize the green beans faster](/img/cooking-green-beans.jpg)
+Covering while simmering tenderize the green beans faster
+
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/AedJIA85TjM`

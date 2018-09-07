@@ -25,5 +25,6 @@ Slow cooked beef stew with vegetables
 
 ### Video
 Watch and cook-along with the video recipe.
+
 `youtube:https://www.youtube.com/embed/JYdn6-QMjqA`
 

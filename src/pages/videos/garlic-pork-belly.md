@@ -22,3 +22,8 @@ Crispy, golden and garlicky pork belly
 ![Fresh pork belly and handful of garlic cloves](/img/fresh-pork-belly-garlic.jpg)
 
 ![Crispy garlic loaded liempo](/img/garlic-pork-belly.jpg)
+
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/d9aXCxvG0ow`

@@ -26,4 +26,5 @@ Hearty beef stew slowly cooked in tomatoes, potatoes and vegetables.
 
 ### Video
 Watch and cook-along with the video recipe.
+
 `youtube:https://www.youtube.com/embed/YMd408JUZRw`

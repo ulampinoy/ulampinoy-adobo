@@ -54,3 +54,7 @@ Again, we are happy to be back and cooking ulam recipes you've been asking for p
 
 Happy cooking and show us your version of the dish via [Instagram](https://instagram.com/ulampinoy/) with **#ulampinoy**
 
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/vtYoKYwEInQ`
