@@ -19,6 +19,12 @@ module.exports = {
         name: "images"
       }
     },
+    {
+      resolve: "gatsby-plugin-google-analytics",
+      options: {
+        trackingId: "UA-24666876-1"
+      }
+    },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-remark-embed-video",
@@ -32,6 +38,12 @@ module.exports = {
             options: {
               related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
               noIframeBorder: true //Optional: Disable insertion of <style> border: 0
+            }
+          },
+          {
+            resolve: "gatsby-remark-images",
+            options: {
+              maxWidth: 590
             }
           }
         ]
