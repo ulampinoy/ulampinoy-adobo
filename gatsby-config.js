@@ -19,12 +19,6 @@ module.exports = {
         name: "images"
       }
     },
-    {
-      resolve: "gatsby-plugin-google-analytics",
-      options: {
-        trackingId: "UA-24666876-1"
-      }
-    },
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     "gatsby-remark-embed-video",
@@ -43,8 +37,8 @@ module.exports = {
           {
             resolve: "gatsby-remark-images",
             options: {
-              maxWidth: 590
-            }
+              maxWidth: 590,
+            },
           }
         ]
       }
