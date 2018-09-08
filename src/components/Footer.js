@@ -9,6 +9,9 @@ const Footer = () => (
       <div>
         <Link to="/">ULAMPINOY</Link> | Copyright © 2018
       </div>
+    <Link to="/glossary"
+    >Glossary
+            </Link>
   </footer>
 );
 

@@ -33,7 +33,7 @@ collections:
       - {label: "Cover Image", name: "coverImage", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
 
-    - name: "glossary"
+  - name: "glossary"
     label: "Glossary"
     folder: "src/pages/glossary"
     create: true
