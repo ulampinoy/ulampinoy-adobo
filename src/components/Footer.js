@@ -7,11 +7,9 @@ import logo from '../img/logo.svg'
 const Footer = () => (
   <footer>
       <div>
-        <Link to="/">ULAMPINOY</Link> | Copyright © 2018
+        <Link to="/">ULAMPINOY</Link> | Copyright © 2018 |
+        <Link to="/glossary"> Glossary</Link>
       </div>
-    <Link to="/glossary"
-    >Glossary
-            </Link>
   </footer>
 );
 
