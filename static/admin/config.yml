@@ -17,7 +17,6 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Cover", name: "coverImage", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
 
   - name: "video"
@@ -31,8 +30,19 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Cover", name: "coverImage", widget: "image"}
+      - {label: "Cover Image", name: "coverImage", widget: "image"}
       - {label: "Tags", name: "tags", widget: "list"}
+
+  - name: "glossary"
+    label: "Glossary"
+    folder: "src/pages/glossary"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "glossary-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
   - name: "pages"
     label: "Pages"
