@@ -16,7 +16,7 @@ Antemano, tanggap na namin na hindi ito pulido sa nais namin sa pasimula kaya ma
 
 Kaya naman sa unahang bersyon sa seryeng ito—ang titik **A = Adobo**
 
-Adobo, hindi Afritada dahil nasa karakter ng adobo ang akala mo simple pero sa totoo napakasopistikado nito sa lasa dahil sa mga patiunang mga pagsisikap.
+Adobo, at hindi Afritada dahil nasa karakter ng adobo ang akala mo simple pero sa totoo napakasopistikado nito sa lasa dahil sa mga patiunang mga pagsisikap.
 
 ![Adobo marinade of garlic and pork belly](/img/pre-adobo.jpg)
 
