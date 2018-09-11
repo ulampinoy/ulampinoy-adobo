@@ -38,6 +38,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       createPage({
         path: edge.node.fields.slug,
         tags: edge.node.frontmatter.tags,
+        coverImage: edge.node.frontmatter.coverImage,
         description: edge.node.frontmatter.description,
         whetter: edge.node.frontmatter.whetter,
         component: path.resolve(
