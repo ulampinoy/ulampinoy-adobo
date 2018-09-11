@@ -36,7 +36,7 @@ IndexPage.propTypes = {
 export const pageQuery = graphql`
   query GlossaryQuery {
     allMarkdownRemark(
-      sort: { order: DESC, fields: [frontmatter___date] },
+      sort: { order: ASC, fields: [frontmatter___title] },
       filter: { frontmatter: { templateKey: { eq: "glossary-post" } }}
     ) {
       edges {
