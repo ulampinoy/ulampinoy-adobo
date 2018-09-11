@@ -4,7 +4,7 @@ title: Burger Steak
 date: 2018-09-05T00:28:44+01:00
 description: Ang burger ay ulam rin sa kanin. Basta may sarsa.
 whetter: Palayain mula sa tinapay
-coverImage: /img/burger-steak-mushroom-gravy.jpg
+coverImage: /img/burger-steak.jpg
 tags:
   - burger
   - beef
