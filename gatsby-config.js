@@ -15,7 +15,7 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        path: `${__dirname}/src/images`,
+        path: `${__dirname}/src/img`,
         name: "images"
       }
     },
@@ -39,7 +39,7 @@ module.exports = {
             options: {
               maxWidth: 1024,
               linkImagesToOriginal: true,
-              wrapperStyle: 'margin-top:1rem; margin-bottom:1rem;'
+              wrapperStyle: 'margin-top:1rem; margin-bottom:1rem'
             }
           }
         ]
