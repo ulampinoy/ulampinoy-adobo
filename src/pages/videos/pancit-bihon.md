@@ -26,3 +26,8 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 
 ![Tasty pancit bihon guisado](/img/pancit-bihon-dish-01.jpg)
 
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/bGjkeUzW1kE`
+

@@ -21,3 +21,8 @@ Quick and easy fish adobo dish of mackerel (typically galunggong). Delicious and
 * 1/4 cup vinegar
 * freshly ground black pepper to taste
 * green chilis for garnish
+
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/4L4M7GxjBRw`

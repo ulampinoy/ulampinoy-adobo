@@ -22,3 +22,8 @@ Classic Pinoy dessert of rice cakes topped with shredded coconut, sugar and sesa
 * 1 big pot of boiling water for cooking the rice cakes
 
 ![Palitaw](/img/palitaw-01.jpg)
+
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/Lf4qji5-jh8`

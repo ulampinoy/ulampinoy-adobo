@@ -35,3 +35,7 @@ Enjoy!
 
 ![Ready to fry](/img/lumpia-togue-fresh.jpg)
 
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/qLvX6UMFDUI`

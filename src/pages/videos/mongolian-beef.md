@@ -4,6 +4,7 @@ title: Mongolian Beef
 date: 2017-01-30T24:04:44.000Z
 description: Napakasarap at madaling lutuing beef stir-fry na saktong-sakto ulam.
 coverImage: /img/mongolian-beef.jpg
+youtube: jrF4z3fjphA
 tags:
   - beef
   - wok
@@ -31,3 +32,8 @@ Ang masarap na beef dish na madalas na inoorder sa labas ay puede mo ng gawin sa
 * Roasted sesame seeds
 
 Kain na! At huwag mag-atubiling [mag-subscribe](https://www.youtube.com/user/ulampinoy) at paki-share ang ulam Pinoy. Salamat!
+
+### Video
+Watch and cook-along with the video recipe.
+
+`youtube:https://www.youtube.com/embed/jrF4z3fjphA`

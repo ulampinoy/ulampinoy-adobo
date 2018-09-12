@@ -1,27 +1,29 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Link from "gatsby-link";
+import Img from "gatsby-image";
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props;
     const { edges: posts } = data.allMarkdownRemark;
 
-    return (
-      <div className="wrapper">
+    return <div className="wrapper">
         <section className="Section">
           {posts.map(({ node: post }) => (
             <div className="post-preview" key={post.id}>
               <div>
+                <Img sizes={post.frontmatter.coverImage.childImageSharp.sizes} />
                 <h1>
-                  <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
+                  <Link to={post.fields.slug}>
+                    {post.frontmatter.title}
+                  </Link>
                 </h1>
               </div>
             </div>
           ))}
         </section>
-      </div>
-    );
+      </div>;
   }
 }
 
@@ -50,6 +52,7 @@ export const pageQuery = graphql`
             title
             templateKey
             date(formatString: "MMMM DD, YYYY")
+            coverImage
           }
         }
       }
