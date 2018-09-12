@@ -2,8 +2,7 @@
 templateKey: 'about-page'
 path: /about
 title: Tungkol sa Amin
-description: 'Kami ay pamilyang Filipino na kasalukuyang naninirahan at nakabase sa España'
-coverImage: "./cover.jpg"
+description: 'Kami ay pamilyang Filipino na kasalukuyang naninirahan at nakabase sa España. Family project namin ang Ulampinoy.'
 ---
 
 ### Panimula

@@ -2,7 +2,7 @@
 templateKey: video-post
 title: Pork Siomai
 date: 2012-10-09
-description: Rice cakes topped with shredded coconut, sugar and sesame seeds
+description: The Official Philippine National Dumpling
 coverImage: /img/pork-siomai-01.jpg
 youtube: "LkVlK6TKePc"
 tags:

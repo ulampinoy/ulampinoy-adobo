@@ -10,7 +10,7 @@ tags:
     - classics
 ---
 
-Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
+The default pancit.
 
 ### INGREDIENTS:
 * 1/2 piece dressed chicken (boiled, deboned and shredded; the stock use for cooking the noodles)
