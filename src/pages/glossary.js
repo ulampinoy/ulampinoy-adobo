@@ -13,7 +13,6 @@ export default class IndexPage extends React.Component {
           {posts.map(({ node: post }) => (
             <div className="post-preview" key={post.id}>
               <div>
-                <Img sizes={post.frontmatter.coverImage.childImageSharp.sizes} />
                 <h1>
                   <Link to={post.fields.slug}>
                     {post.frontmatter.title}
