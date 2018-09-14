@@ -20,6 +20,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               templateKey
               coverImage
               whetter
+              date
             }
           }
         }

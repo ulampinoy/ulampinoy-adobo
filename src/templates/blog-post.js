@@ -13,6 +13,7 @@ export const BlogPostTemplate = ({
   title,
   coverImage,
   whetter,
+  date,
   helmet,
 }) => {
   const PostContent = contentComponent || Content
@@ -26,6 +27,7 @@ export const BlogPostTemplate = ({
         </div>
         <div className="gridPost">
           <article>
+            <h5>{date}</h5>
             <h4 className="whetter">{whetter}</h4>
             <h1>{title}</h1>
             <p className="article-desc">{description}</p>
@@ -70,6 +72,7 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
       whetter={post.frontmatter.whetter}
+      date={post.frontmatter.date}
     />
   )
 }
