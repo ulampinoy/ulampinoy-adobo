@@ -10,10 +10,10 @@ tags:
 ---
 Reset. Reboot. Isang sariwang panimula.
 
-Ngayon, nagagalak naming ibalita na ang Ulampinoy ay nagbabalik online upang i-share ang masasarap na mga recipe at adbentyur!
+Nagagalak namin ngayong ibalita sa inyo na ang Ulampinoy ay nagbabalik online upang i-share ang masasarap na mga recipe at adbentyur!
 
 Babansagan namin ang unahang bersyon sa seryeng ito bilang **Alpha Adobo**
 
 ![Adobo marinade of garlic and pork belly](/img/pre-adobo.jpg)
 
-Kaya samantalang unti-unti namin itong ginagawa at ibinabahagi sa inyo, isa lang ang hiling namin gaya ng sabi ng mga DJ sa FM station: _**"Stay tune. Stay stuck and keep it here!** (WKC)"_
+Kaya samantalang unti-unti namin itong ginagawa at ibinabahagi sa inyo, isang tanging hiling namin sa inyo na gaya ng sabi ng mga DJ sa FM station: _**"Stay tune. Stay stuck and keep it here!** (WKC)"_
