@@ -27,7 +27,6 @@ export const BlogPostTemplate = ({
         </div>
         <div className="gridPost">
           <article>
-            <h5>{date}</h5>
             <h4 className="whetter">{whetter}</h4>
             <h1>{title}</h1>
             <p className="article-desc">{description}</p>
@@ -41,6 +40,7 @@ export const BlogPostTemplate = ({
                   </li>)}
               </ul>
             </div> : null}
+          <h5>{date}</h5>
           </article>
           <aside>
           </aside>
