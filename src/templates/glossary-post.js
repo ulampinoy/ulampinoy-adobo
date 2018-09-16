@@ -16,9 +16,13 @@ export const GlossaryPostTemplate = ({
       {helmet || ""}
       <div className="wrapper">
         <div className="gridPost">
-          <article>
+          <article className="glossary-post">
             <h1>{title}</h1>
             <PostContent content={content} />
+            <div className="liner" />
+            <div className="link-back">
+              <Link to="/glossary">&laquo; Back to Glossary</Link>
+            </div>
           </article>
           <aside />
         </div>
