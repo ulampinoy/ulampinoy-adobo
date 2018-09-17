@@ -10,7 +10,7 @@ tags:
   - recipe
 ---
 
-Malimit na may tira pang hotdog dahil iniluto mo ng isang paket. Torta ang masarap na paraan para gamitin ang mga tirang hotdog at iba pang tirang  mga sangkap gaya ng bell pepper, sibuyas na malamang na ginamit sa ibang ulam pero naitabi mo pa rin sa refregerator.
+Malimit may natitirang hotdog dahil iniluto kadalasan lahat sa isang pakete. Torta ang masarap na paraan para gamitin ang mga tirang hotdog at iba pang tirang mga sangkap gaya ng bell pepper, sibuyas na malamang na ginamit sa ibang ulam pero naitabi mo pa rin sa refregerator.
 
 Ang kailangan mo lang ngayon ay itlog.
 
@@ -29,7 +29,7 @@ Ang kailangan mo lang ngayon ay itlog.
 2. Batihin ang mga itlog sa isang mangkok, timplahan ng asin at pamintang durog. Ilagay dito ang iginisang mga sangkap kanina.
 ![](/img/torta-hotdog-bowl.jpg)
 
-3. Maglagay at painiting ang kaunting mantika sa mismong kawali kung saan iginisa ang mga rekado. Ibuhos ang pinagsama-samang itlog at mga rekado sa pan.
+3. Maglagay at painitin ang kaunting mantika sa mismong kawali kung saan iginisa ang mga rekado. Ibuhos ang pinagsama-samang itlog at mga rekado sa pan.
 ![](/img/torta-hotdog.jpg)
 
 4. Iprito hanggang maluto ang makabilang bahagi. Sikapin na buuin ang pagkabilog nito. Iwasang masunog ang sibuyas dahil magbibigay ito ng mapait na lasa.
