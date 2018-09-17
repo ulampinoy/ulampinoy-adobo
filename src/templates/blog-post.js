@@ -13,6 +13,8 @@ export const BlogPostTemplate = ({
   title,
   coverImage,
   whetter,
+  sideNote,
+  sideImage,
   date,
   helmet,
 }) => {
@@ -43,6 +45,9 @@ export const BlogPostTemplate = ({
           <h5>{date}</h5>
           </article>
           <aside>
+            <h4>Alam mo ba?</h4>
+            <p>{sideNote}</p>
+            <img src={sideImage} />
           </aside>
         </div>
       </div>
@@ -56,6 +61,8 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   cover: PropTypes.string,
   whetter: PropTypes.string,
+  sideNote: PropTypes.string,
+  sideImage: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }
 
@@ -72,6 +79,8 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
       whetter={post.frontmatter.whetter}
+      sideNote={post.frontmatter.sideNote}
+      sideImage={post.frontmatter.sideImage}
       date={post.frontmatter.date}
     />
   )
@@ -97,6 +106,8 @@ export const pageQuery = graphql`
         whetter
         tags
         coverImage
+        sideNote
+        sideImage
       }
     }
   }

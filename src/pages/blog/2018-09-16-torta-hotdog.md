@@ -4,25 +4,23 @@ title: Tortang Hotdog
 date: 2018-09-16T23:59:46+02:00
 description: Omelette na gawa mula sa mga tirang sangkap!
 whetter: Tira kahapon, ulam ngayon
+sideNote: Ang hotdog sa Europa ay karaniwang kulay brown hindi gaya ng nakasanayang kulay pula sa Pilipinas
+sideImage: /img/hotodg-frying-pan.jpg
 coverImage: /img/torta-hotdog.jpg
 tags:
   - egg
   - recipe
 ---
 
-Malimit may natitirang hotdog dahil iniluto kadalasan lahat sa isang pakete. Torta ang masarap na paraan para gamitin ang mga tirang hotdog at iba pang tirang mga sangkap gaya ng bell pepper, sibuyas na malamang na ginamit sa ibang ulam pero naitabi mo pa rin sa refregerator.
-
-Ang kailangan mo lang ngayon ay itlog.
+Malimit may natitirang hotdog dahil iniluto kadalasan lahat sa isang pakete. Torta ang masarap na paraan para gamitin ang mga tirang hotdog at iba pang tirang mga sangkap gaya ng bell pepper, sibuyas na malamang na ginamit sa ibang ulam pero naitabi mo pa rin sa refregerator. Ang kailangan mo lang ngayon ay itlog.
 
 ### INGREDIENTS:
-
-- Hotdog (hiwalin ng palihis o diagonal)
+- Hotdog (hiwaiin ng palihis o diagonal)
 - Sibuyas
-- Bell pepper (hiwain ng pahaba o julienne)
+- Red bell pepper (hiwain ng pahaba o julienne)
 - Itlog (sapat na bilang para lumubog lahat ng iba pang mga sangkap)
 - Mantika
 - Asin at paminta
-
 
 ### PROCEDURE:
 1. Igisa ang sibuyas, bell pepper at hotdog hanggang magsimulang lumambot ang sibuyas at bell pepper.
@@ -35,7 +33,8 @@ Ang kailangan mo lang ngayon ay itlog.
 4. Iprito hanggang maluto ang makabilang bahagi. Sikapin na buuin ang pagkabilog nito. Iwasang masunog ang sibuyas dahil magbibigay ito ng mapait na lasa.
 ![](/img/torta-hotdog-plate.jpg)
 
-![](/img/torta-hotdog-slice.jpg)
 Hot sauce o ketsup ang sauce sa tortang hotdog. Masarap itong ulam sa kanin o palaman sa pandesal.
+![](/img/hot-sauce-ketchup-fridge.jpg)
+![](/img/torta-hotdog-slice.jpg)
 
 Ang recipeng ito ay puede rin gawin sa tirang Spam o Maling; tuna, sardinas de lata. Enjoy sa inyong recycled hotdog omelette!

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Ulampinoy Adobo
-date: 2018-09-05T23:59:46+02:00
+date: 2018-09-06T23:59:46+02:00
 description: Ang Ulampinoy, mas pinasarap!
 whetter: A is for Adobo
 coverImage: /img/adobo-01.jpg

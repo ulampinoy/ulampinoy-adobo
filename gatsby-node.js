@@ -20,6 +20,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               templateKey
               coverImage
               whetter
+              sideNote
+              sideImage
               date
             }
           }
@@ -42,6 +44,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
         coverImage: edge.node.frontmatter.coverImage,
         description: edge.node.frontmatter.description,
         whetter: edge.node.frontmatter.whetter,
+        sideNote: edge.node.frontmatter.sideNote,
+        sideImage: edge.node.frontmatter.sideImage,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
         ),
