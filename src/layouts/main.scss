@@ -205,8 +205,8 @@ article {
       margin: 1rem auto;
     }
   }
-  @media only screen and (min-width: 1080px) {
-    grid-template-columns: 1fr 350px;
+  @media only screen and (min-width: 960px) {
+    grid-template-columns: 1fr .35fr;
   }
 }
 
