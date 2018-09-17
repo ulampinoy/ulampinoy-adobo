@@ -4,7 +4,7 @@ title: Tortang Hotdog
 date: 2018-09-16T23:59:46+02:00
 description: Omelette na gawa mula sa mga tirang sangkap!
 whetter: Tira kahapon, ulam ngayon
-sideNote: Ang hotdog sa Europa ay karaniwang kulay brown hindi gaya ng nakasanayang kulay pula sa Pilipinas
+sideNote: Ang hotdog sa Europa ay karaniwang kulay brown at hindi pula gaya ng nakasanayang kulay ng hotdog sa Pilipinas.
 sideImage: /img/hotodg-frying-pan.jpg
 coverImage: /img/torta-hotdog.jpg
 tags:
