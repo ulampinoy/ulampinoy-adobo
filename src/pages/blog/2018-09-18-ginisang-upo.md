@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Ginisang Upo
 date: 2018-09-18T08:36:04+02:00
-description: Manamisnamis ang upo kung tama ito sa gulang.
-whetter: Magalang na gulay
+description: Masarap na luto sa murà pang bunga ng upo, sinahugan ng giniling na baboy.
+whetter: Upo? Opo, upo po...
 sideNote: Ang upo ay masarap rin isahog sa tinolang manok at nilagang baboy. Nagbibigay ito ng manamis-namis na lasa at maputing sabaw.
 sideImage: /img/upo-cuts.jpg
 coverImage: /img/upo-ginisa.jpg
@@ -12,9 +12,9 @@ tags:
   - recipe
 ---
 
-Ang **po at opo** ay ang mga salitang ginagamit bilang pagpapakita ng paggalang. Tinuturuan at naasahan sa mga bata na makipag-usap sa mga nakatatanda gamit ang mga po at opo. Kapag ang isang bata ay hindi nangungupo, isang pabirong pamuna at paalala ang sinasabi: "Kumain ka ng upo!" Sa isip ng isang paslit, parang may taglay ang upo na bagay na gagawin silang magalang.
+Ang **po at opo** ay ang mga salitang ginagamit bilang pagpapakita ng paggalang. Tinuturuan at naasahan sa mga bata na makipag-usap sa mga nakatatanda gamit ang mga po at opo. Kapag ang isang bata ay hindi nangungupo, isang pabirong pamuna at paalala ang sinasabi: "Kumain ka ng upo!" Sa isip ng isang paslit, parang bang may taglay ang upo na sekretong sangkap na gagawin silang magalang.
 
-Ang ginisang upo ang masarap na luto lalo na kung ang upo ay tama sa gulang. Manamisnamis ito at maging ang mura nitong buto ay malambot pa.
+Ang ginisang upo ang masarap na luto lalo na kung ang upo ay tama sa gulang. Manamisnamis ito at maging ang murà nitong buto ay malambot pa.
 
 ### MGA SANGKAP
 * Upo
@@ -38,7 +38,7 @@ Gumamit ng vegetable peeler para mas madaling balatan ang upo at balatan ito bag
    * ![Bagoong alamang sa bote](/img/alamang-bagoong-bote.jpg)
 3. Igisa ang upo hanggang magsimulang lumabas ang katas nito. Ilagay ang siling haba at takpan. Pakuluan at paminsan-minsan lang haluin. Hindi na kailangan lagyan ng tubig dahil makataas ang upo. Timplahan ng asin at paminta. Lutuin hanggang lumambot.
 
-Ang ginisang upo ay isang putaheng gulay na kinagigiliwan maging ang mga hindi mahilig sa gulay.
+Maging ang mga hindi mahilig sa gulay, ay hindi tumanggi kapag inihahain ang ginisang upo, basta maraming sahog na baboy!
 ![Ginisang upo](/img/upo-ginisa-closeup.jpg)
 
 Masarap rin itambal ang pritong isda sa ginisang upo. Kain na **po** tayo!
