@@ -4,7 +4,7 @@ title: Ginisang Upo
 date: 2018-09-18T08:36:04+02:00
 description: Manamisnamis ang upo kung tama ito sa gulang.
 whetter: Magalang na gulay
-sideNote: Ang upo ay masarap rin isahog sa tinolang manok at nilagang baboy. Nagbibigay ito ng manamis-namis na lasa sa sabaw.
+sideNote: Ang upo ay masarap rin isahog sa tinolang manok at nilagang baboy. Nagbibigay ito ng manamis-namis na lasa at maputing sabaw.
 sideImage: /img/upo-cuts.jpg
 coverImage: /img/upo-ginisa.jpg
 tags:
@@ -24,21 +24,24 @@ Ang ginisang upo ang masarap na luto lalo na kung ang upo ay tama sa gulang. Man
 * Sibuyas
 * Siling haba
 * Mantika
-* Patis
+* Patis o bagoong alamang
 * Asin at pamintang-durog
 
 ![Binalatang bunga ng upo](/img/upo-peeled.jpg)
+Gumamit ng vegetable peeler para mas madaling balatan ang upo at balatan ito bago hiwain ng maliit.
 ![Pinagbalatan ng upo](/img/upo-peel.jpg)
 
 ### PARAAN NG PAGLULUTO
 1. Isangkutsa ang giniling na baboy sa pamamagitan ng paglalagay ng kaunting tubig at asin. Tangggalin ang bula sa unang kulo. Patuyuan at hayaan lumabas ng kaunti ang sarili nitong mantika. Maririnig sa tunog na nagsisimula na iton maprito. Dagdagan ng kaunti pang mantika.
-2. Igisa ang bawang, sibuyas at patis. Igisa ang kamatis hanggang madurog ng husto at halos humiwalay na ang balat nito.
+2. Igisa ang bawang, sibuyas at patis (o extra flavor kung bagoong alamang ang gagamitin). Isama ang kamatis at igisa hanggang madurog ng husto ang kamais at halos humiwalay na ang balat nito.
+   * ![Bawang, sibuyas at kamatis](/img/bawang-sibuyas-kamatis.jpg)
+   * ![Bagoong alamang sa bote](/img/alamang-bagoong-bote.jpg)
 3. Igisa ang upo hanggang magsimulang lumabas ang katas nito. Ilagay ang siling haba at takpan. Pakuluan at paminsan-minsan lang haluin. Hindi na kailangan lagyan ng tubig dahil makataas ang upo. Timplahan ng asin at paminta. Lutuin hanggang lumambot.
 
 Ang ginisang upo ay isang putaheng gulay na kinagigiliwan maging ang mga hindi mahilig sa gulay.
 ![Ginisang upo](/img/upo-ginisa-closeup.jpg)
 
-Masarap rin itambal ang pritong isda sa ginisang upo.
+Masarap rin itambal ang pritong isda sa ginisang upo. Kain na **po** tayo!
 ![Pritong isda](/img/isda-prito.jpg)
 
-At malamang kung ito ang inyong ulam, masarap na paalala ito sa mga bata na gamitin ang **po at opo** na katugma ng **upo**!
+At malamang kung ito ang inyong ulam, masarap na paalala ito sa mga bata na gamitin ang **po at opo** na katugma ng **upo.**

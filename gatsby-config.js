@@ -40,7 +40,7 @@ module.exports = {
               maxWidth: 1024,
               showCaptions: true,
               linkImagesToOriginal: true,
-              wrapperStyle: "margin-top:2rem; margin-bottom:2rem",
+              wrapperStyle: "margin-top:2rem; margin-bottom:1rem",
             }
           }
         ]

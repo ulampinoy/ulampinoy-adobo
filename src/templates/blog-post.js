@@ -64,7 +64,7 @@ BlogPostTemplate.propTypes = {
   title: PropTypes.string,
   cover: PropTypes.string,
   whetter: PropTypes.string,
-  sideNote: PropTypes.string,
+  sideNote: PropTypes.func,
   sideImage: PropTypes.string,
   helmet: PropTypes.instanceOf(Helmet),
 }

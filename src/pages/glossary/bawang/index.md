@@ -1,11 +1,9 @@
 ---
 templateKey: glossary-post
-title: Bagoong
-date: 2018-09-10T23:36:01.000Z
+title: Bawang
+date: 2018-09-19T23:36:01.000Z
 ---
 
-Ang bagoong ay pampalasa gawa sa pagbuburo ng isda o hipon. Gamit ang lang ay asin. Ito ay may kakaibang at malakas na amoy.
+Ang bawang ay ang punganahing aromatikong sangkap sa lutong Filipino. Ito ang bida sa putaheng adobo. Bawang rin ang ang iginigisa kasama ng sibuyas bilang base sa maraming lutong ulam. Inilalagay rin ito sa suka bilang sawsawan sa mga pritong pagkain. Ang tinustang bawang ay ginagamit bilang garnisyon, halimbawa sa lugaw, ibinubudbod ito kasama ng spring onions kapag inihahain .
 
-Ginagamit ito sa maraming ulam bilang pampa-alat dahil bukod sa alat may hatid itong linamnam. Madalas rin itong gamiting sawsawan katambal ng kalamansi o suka. Ang bagoong alamang naman ang sidekick ng kare-kare.
-
-![Kare-kare sa palayok at bagoong alamang](/kare-kare-bagoong-alamang.jpg)
+![Ulo at butil ng bawang](/garlic-head.jpg)
