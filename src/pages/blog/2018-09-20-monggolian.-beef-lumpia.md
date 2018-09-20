@@ -4,7 +4,9 @@ title: Lumpiang Toge, Monggolian Beef at Leche Flan
 date: 2018-09-20T00:32:02+02:00
 description: Napakasarap na kombinasyon ng ulam kapag may bisita.
 whetter: Balik tanaw. Balik takam.
-sideNote: Toge o bean sprouts ang pangunahing sangkap sa lumpia. Kadalasan na, kapag sinabing lumpia lang, tinutukoy nito ang lumpiang toge o gulay. Ang iba pang uri ng lumpia ay tinutukoy ng espesipiko gaya ng lumpiang ubod, lumpiang Shanghai, lumpiang sariwa, atbp.
+sideNote: >
+    Toge o bean sprouts ang pangunahing sangkap sa lumpia. Kadalasan na, kapag sinabing lumpia lang, tinutukoy nito ang lumpiang toge o gulay.
+    Ang iba pang uri ng lumpia ay tinutukoy ng espesipiko gaya ng lumpiang ubod, lumpiang Shanghai, lumpiang sariwa, atbp.
 sideImage: /img/toge-ginisa.jpg
 coverImage: /img/monggolian-beef-wok.jpg
 tags:
