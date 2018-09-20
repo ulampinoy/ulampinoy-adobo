@@ -15,18 +15,18 @@ tags:
   - coffee
 ---
 
-Ang pagiging mapagpatuloy (hospitality) ay isa sa kapuri-puring mga katangian ng pamilyang Filipino. Isang paraan para ipakita ito ay ang pag-aanyaya sa mga panauhin upang makasalo sa pagkain. Kapag nag-imbita, madalas na ang espesyal na recipe ng pamilya ang iniluluto para sa mga bisita. 'Ika nga na pang-special ocasion, hindi ito ang pang-araw-araw na ulam.
+Ang pagiging mapagpatuloy (hospitality) ay isa sa kapuri-puring mga katangian ng pamilyang Filipino. Isang paraan para ipakita ito ay ang pag-aanyaya sa mga panauhin upang makasalo sa pagkain. Kapag nag-imbita, madalas na ang espesyal na recipe ng pamilya ang iniluluto para sa mga bisita. 'Ika nga, pang-special ocasion na ulam.
 
-Kaya nang imbitahin namin ang aming mga kaibigan para sa isang pananghalian. Nag-isip kami ng balanse at *match* sa panlasa pero espesyal sa paraan na mabusisi at matrabaho ang maggawa nito.
+Kaya nang imbitahin namin ang aming mga kaibigan para sa isang pananghalian, nag-isip kami ng balanse at *match* sa panlasa pero espesyal sa paraang hindi ito inuulam araw-araw, idagdag pa na mabusisi at matrabaho ang maggawa nito.
 
 ![Piniritong lumpiang gulay](/img/lumpia-gulay.jpg)
-Ang lumpia ay ulam na gulay na appetizer na rin sa panimula ng kainan. Katunayan sa mga Asian restaurant, lumpia ang sini-serve na entree o first place. Pero dahil wala namang meal courses ang kaininang Pinoy, ulam pa rin ang lumpia.
+Ang **lumpia** ay ulam na gulay na appetizer na rin sa panimula ng kainan. Katunayan sa mga Asian restaurant, lumpia ang sini-serve na *entrée* o first plate. Pero wala namang meal courses ang kaininang Pinoy, ulam pa rin ang lumpia na magkakasamang inihahain sa hapag.
 
 ![Monggolian beef na binudburan ng tinustang linga](/img/monggolian-beef-wok.jpg)
-Ang monggolian beef ay madalang lang lutuin bilang pangaraw-araw na ulam. Sa katunayan, natitikman lang ito ng karamihan kapag sila ay kumain sa restaurant at hindi lahat ng restaurant ay nagse-serve nito. Kaya naman napaka-espesyal nito na ihain sa bahay!
+Ang **Monggolian Beef** ay natitikman kapag ang isa ay kumain sa restaurant pero hindi naman lahat ay nagse-serve nito. Kaya naman napaka-espesyal nito na ihain sa bahay! Garantisadong patok ito sa mga bisita!
 
 ![Leche flan](/img/leche-flan.jpg)
-Matrabaho at maselan ang paggawa ng leche flan. Maraming hakbang at atensyon ang kinakailangan para makagawa ng maayos na leche flan na kapuwa tama sa lasa't tamis at higit sa lahat ang tekstura nito.
+Matrabaho at maselan ang paggawa ng **leche flan.** Maraming hakbang at atensyon ang kinakailangan para makagawa ng maayos na leche flan na kapuwa tama sa lasa't tamis at higit sa lahat ang tekstura nito.
 
 ![Kape't gatas at ChocoMani](/img/kape-chocomani.jpg)
 Masarap na pananghalian, at masayang kuwentuhan at tawanan. Sulit na sulit nga lahat ng paghahanda sa dulot nitong kagalakang tumatatak sa ala-ala kapiling ng mga mahal na kaibigan!
