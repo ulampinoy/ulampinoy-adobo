@@ -6,12 +6,13 @@ export const AboutPageTemplate = ({ title, description, content, contentComponen
   const PageContent = contentComponent || Content
 
   return <div className="wrapper">
-      <section className="Section">
+      <section>
         <div className="gridPost">
           <article>
             <h1>{title}</h1>
             <p className="article-desc">{description}</p>
             <PageContent content={content} />
+            <div className="liner" />
           </article>
         </div>
       </section>
