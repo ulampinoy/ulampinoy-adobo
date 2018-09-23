@@ -58,6 +58,7 @@ main {
       margin: 1rem 0 0;
 
       h4 {
+        font-size: .8rem;
         margin: 0;
       }
 
@@ -391,7 +392,14 @@ iframe {
 
   & > div:first-child {
     grid-area: bb;
+    padding-bottom: 2rem;
+    margin-bottom: 0;
     border-bottom: 1px solid #f0f0f0;
+
+    .post-preview-image {
+      max-height: 64vh;
+      overflow: hidden;
+    }
   }
 }
 
