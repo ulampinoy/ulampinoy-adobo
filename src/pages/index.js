@@ -8,10 +8,10 @@ export default class IndexPage extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return <div className="wrapper">
-        <section className="Section">
+        <section className="Section indexGrid">
           {posts.map(({ node: post }) => (
             <div className="post-preview" key={post.id}>
-              <div>
+              <div className="post-preview-blurb">
                 <h4 className="whetter">{post.frontmatter.whetter}</h4>
                 <h1>
                   <Link to={post.fields.slug}>
@@ -19,15 +19,16 @@ export default class IndexPage extends React.Component {
                   </Link>
                 </h1>
                 <p>{post.frontmatter.description}</p>
-                <p>{post.excerpt}</p>
               </div>
-              <Link to={post.fields.slug}>
-                <img src={post.frontmatter.coverImage} />
-              </Link>
+              <div className="post-preview-image">
+                <Link to={post.fields.slug}>
+                  <img src={post.frontmatter.coverImage} />
+                </Link>
+              </div>
             </div>
           ))}
         </section>
-      </div>;
+    </div>;
   }
 }
 

@@ -8,12 +8,12 @@ import './main.scss'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Ulampinoy" />
+    <Helmet title="Ulampinoy | Home" />
     <Navbar />
-    <main>{children()}</main>
+      <main>{children()}</main>
     <Footer />
   </div>
-)
+);
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,

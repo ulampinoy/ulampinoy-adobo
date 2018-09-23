@@ -50,19 +50,24 @@ main {
   }
 
   .post-preview {
-    margin: 3rem auto;
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap: 2rem;
-    border-bottom: 1px solid #e0e0e0;
-    padding-bottom: 2rem;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
 
-    @media only screen and (min-width: 1080px) {
-      grid-template-columns: 0.8fr 1fr;
+    .post-preview-blurb {
+      margin: 1rem 0 0;
+
+      h4 {
+        margin: 0;
+      }
+
+      p {
+        margin: .5rem 0;
+      }
     }
 
-    h4 {
-      margin-top: 0;
+    .post-preview-image {
+      order: -1;
     }
   }
 }
@@ -365,3 +370,28 @@ iframe {
     margin-top: 2rem;
   }
 }
+
+.indexGrid {
+  display: grid;
+  grid-template-areas:
+      "bb"
+      "card"
+      "foot";
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 1rem;
+  @media only screen and (min-width: 960px) {
+    grid-template-areas:
+      "bb   bb   bb"
+      "card card card"
+      "foot foot foot";
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3rem;
+  }
+
+
+  & > div:first-child {
+    grid-area: bb;
+    border-bottom: 1px solid #f0f0f0;
+  }
+}
+
