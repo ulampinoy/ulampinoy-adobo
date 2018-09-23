@@ -59,11 +59,21 @@ main {
 
       h4 {
         font-size: .8rem;
-        margin: 0;
+        margin: 0 0 .5rem;
       }
 
       p {
         margin: .5rem 0;
+      }
+
+      @media only screen and (min-width: 480px) and (max-width: 960px) {
+        h1 {
+          font-size: 1.6rem;
+          line-height: 1.2;
+        }
+        p {
+          font-size: 1.2rem;
+        }
       }
     }
 
@@ -378,8 +388,18 @@ iframe {
       "bb"
       "card"
       "foot";
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-gap: 1rem;
+
+  @media only screen and (min-width: 480px) and (max-width: 960px) {
+    grid-template-areas:
+      "bb bb"
+      "card card"
+      "foot foot";
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2rem;
+  }
+
   @media only screen and (min-width: 960px) {
     grid-template-areas:
       "bb   bb   bb"
