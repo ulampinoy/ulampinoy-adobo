@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Churros & Chocolate
 date: 2015-06-26T18:01:44Z
-description: Freshly made churros with hot chocolate at the local churrería
+description: When visiting Madrid, one shou
 whetter: Madrid Must Have
 coverImage: /img/churros-dip.jpg
 tags:
@@ -10,7 +10,7 @@ tags:
     - spain
 ---
 
-Freshly made _churros_ sprinkled with sugar and hot chocolate dip at the local _churrería._ It was both delightful eat and watch how it was made.
+_Churros_ sprinkled with sugar and hot chocolate dip at the local _churrería._ It was both delightful to eat and watch how it's made.
 
 ![](/img/churros-cooking-03.jpg "La Churrera, the amazing churros machine")
 

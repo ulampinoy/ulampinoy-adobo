@@ -16,6 +16,26 @@ export const AboutPageTemplate = ({ title, description, content, contentComponen
           </article>
         </div>
       </section>
+      <section className="Section">
+        <h2>Makipag-ugnayan sa Amin</h2>
+        <form className="contact-form" name="contact" method="POST" netlify>
+          <div>
+            <label>Pangalan:</label>
+            <input type="text" name="name" />
+          </div>
+          <div>
+          <label>Email: </label>
+          <input type="email" name="email" />
+          </div>
+          <div>
+            <label>Mensahe:</label>
+            <textarea name="message" rows="9" />
+          </div>
+          <div>
+            <button type="submit">I-send</button>
+          </div>
+        </form>
+      </section>
     </div>;
 }
 
