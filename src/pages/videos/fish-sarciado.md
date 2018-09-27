@@ -3,7 +3,7 @@ templateKey: video-post
 title: Fish Sarciado
 date: 2011-10-01
 description: Fish with sauteéd egg and tomatoes
-coverImage: /img/fish-sarciado-01.jpg
+coverImage: /images/fish-sarciado-01.jpg
 youtube: "RwhuXRDfPWk"
 tags:
     - fish
@@ -24,7 +24,7 @@ Slow cooked beef stew with vegetables
 * black pepper
 * spring onion as garnish
 
-![Sarciadong isda](/img/fish-sarciado-02.jpg)
+![Sarciadong isda](/images/fish-sarciado-02.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

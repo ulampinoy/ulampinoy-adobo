@@ -3,7 +3,7 @@ templateKey: video-post
 title: Bopis
 date: 2012-02-18
 description: Pork innards braised in vinegar and spices
-coverImage: /img/bopis-dish-01.jpg
+coverImage: /images/bopis-dish-01.jpg
 youtube: "lOLw8UzRApY"
 tags:
   - innards
@@ -25,7 +25,7 @@ Watch and cook-along with the video recipe.
 
 `youtube:https://www.youtube.com/embed/lOLw8UzRApY`
 
-![Bopis](/img/bopis-dish-02.jpg)
+![Bopis](/images/bopis-dish-02.jpg)
 Kain na at kanin pa more! 🍚
 
 

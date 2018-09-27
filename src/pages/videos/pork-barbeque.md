@@ -3,7 +3,7 @@ templateKey: video-post
 title: Pork Belly Barbecue
 date: 2011-08-28
 description: Pork belly strips marinated with spice soy sauce
-coverImage: /img/pork-belly-barbecue-01.jpg
+coverImage: /images/pork-belly-barbecue-01.jpg
 youtube: "7fiyapwC1Aw"
 tags:
     - pork
@@ -30,5 +30,5 @@ Pork belly strips marinated with spice soy sauce
 * cooking oil
 * ketchup
 
-![Pork liempo BBQ](/img/pork-belly-barbecue-01.jpg)
+![Pork liempo BBQ](/images/pork-belly-barbecue-01.jpg)
 

@@ -3,7 +3,7 @@ templateKey: video-post
 title: Ginisang Monggo
 date: 2011-10-29
 description: Mung beans cooked with pork belly strips, bitter gourd leaves
-coverImage: /img/ginisang-monggo.jpg
+coverImage: /images/ginisang-monggo.jpg
 youtube: "VBGDZ2nQ2ZI"
 tags:
     - legumes
@@ -23,7 +23,7 @@ Mung beans cooked with pork belly strips, bitter gourd leaves
 * cooking oil
 * 1.5 liters of water (use for pre-boiling the beans)
 
-![Ginisang monggo](/img/ginisang-monggo.jpg)
+![Ginisang monggo](/images/ginisang-monggo.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

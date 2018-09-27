@@ -3,7 +3,7 @@ templateKey: video-post
 title: Crispy Garlic Pork Belly
 date: 2013-10-21
 description: Crispy, golden and garlicky pork belly
-coverImage: /img/garlic-pork-belly.jpg
+coverImage: /images/garlic-pork-belly.jpg
 youtube: "d9aXCxvG0ow"
 tags:
     - mushroom
@@ -19,9 +19,9 @@ Crispy, golden and garlicky pork belly
 * 1/2 cup water
 * salt and black pepper to taste
 
-![Fresh pork belly and handful of garlic cloves](/img/fresh-pork-belly-garlic.jpg)
+![Fresh pork belly and handful of garlic cloves](/images/fresh-pork-belly-garlic.jpg)
 
-![Crispy garlic loaded liempo](/img/garlic-pork-belly.jpg)
+![Crispy garlic loaded liempo](/images/garlic-pork-belly.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

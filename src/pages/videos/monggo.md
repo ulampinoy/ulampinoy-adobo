@@ -3,7 +3,7 @@ templateKey: video-post
 title: Monggo
 date: 2016-12-12T24:04:44.000Z
 description: Ginisang monggo na sinahugan ng liempo, ampalaya at spinach
-coverImage: /img/ginisang-monggo-02.jpg
+coverImage: /images/ginisang-monggo-02.jpg
 whetter: Kahit linggu-lingo
 youtube: "06kCeI88owE"
 tags:

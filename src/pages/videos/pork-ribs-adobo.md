@@ -3,7 +3,7 @@ templateKey: video-post
 title: Pork Ribs Adobo
 date: 2012-10-05
 description: Pork ribs adobo with potatoes
-coverImage: /img/pork-ribs-adobo-rice-dish.jpg
+coverImage: /images/pork-ribs-adobo-rice-dish.jpg
 youtube: "jnacHmVZJ84"
 tags:
     - pork
@@ -22,7 +22,7 @@ Pork ribs adobo with potatoes
 * 1 cup water
 * 1/2 cup cooking oil for frying the potatoes
 
-![Delicious pork ribs adobo rice toppings](/img/pork-ribs-adobo-rice.jpg)
+![Delicious pork ribs adobo rice toppings](/images/pork-ribs-adobo-rice.jpg)
 
 
 

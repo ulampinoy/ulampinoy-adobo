@@ -3,7 +3,7 @@ templateKey: video-post
 title: Sinigang na Hipon at Isda
 date: 2013-10-14
 description: Seafoods stew of fish, shrimp and vegetables
-coverImage: /img/sinigang-hipon-isda.jpg
+coverImage: /images/sinigang-hipon-isda.jpg
 youtube: "3F6mgldfVDU"
 tags:
     - seafoods
@@ -21,8 +21,8 @@ Seafoods stew of fish, shrimp, talbos ng kamote (sweet potato young leaves), tom
 * 1/2 cup water
 * salt and black pepper to taste
 
-![Fresh sweet potato tops](/img/talbos-kamote.jpg)
+![Fresh sweet potato tops](/images/talbos-kamote.jpg)
 
-![Mga sangkap: isda, hipon at sili](/img/fish-shrimp-chilis.jpg)
+![Mga sangkap: isda, hipon at sili](/images/fish-shrimp-chilis.jpg)
 
-![Sinigang na hipon](/img/sinigang-hipon-isda.jpg)
+![Sinigang na hipon](/images/sinigang-hipon-isda.jpg)

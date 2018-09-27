@@ -3,7 +3,7 @@ templateKey: video-post
 title: Pancit Bihon
 date: 2011-09-17
 description: Pinoy noodles with vegetable, chicken, pork belly and soy sauce
-coverImage: /img/pancit-bihon-dish-02.jpg
+coverImage: /images/pancit-bihon-dish-02.jpg
 youtube: "bGjkeUzW1kE"
 tags:
     - noodles
@@ -24,7 +24,7 @@ The default pancit.
 * black pepper
 * cooking oil
 
-![Tasty pancit bihon guisado](/img/pancit-bihon-dish-01.jpg)
+![Tasty pancit bihon guisado](/images/pancit-bihon-dish-01.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

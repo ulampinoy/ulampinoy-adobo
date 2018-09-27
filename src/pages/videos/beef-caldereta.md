@@ -4,7 +4,7 @@ title: Beef Caldereta
 date: 2013-12-26T24:04:44.000Z
 description: Tender beef stew in gravy sauce made of tomato sauce and liver spread
 youtube: "BotTbCKuGJA"
-coverImage: /img/beef-caldereta.jpg
+coverImage: /images/beef-caldereta.jpg
 whetter: Espesyal sa handaan
 tags:
   - beef

@@ -3,7 +3,7 @@ templateKey: video-post
 title: Creamy Spaghetti Carbonara
 date: 2012-11-05
 description: Delicious party pasta dish that's always a hit!
-coverImage: /img/spaghetti-carbonara.jpg
+coverImage: /images/spaghetti-carbonara.jpg
 youtube: "74HRnmwIhfM"
 tags:
   - pasta
@@ -23,4 +23,4 @@ Easy to make delicious and creamy spaghetti carbonara dish. Kids love it and gre
 * parsley
 * salt & black pepper
 
-![Ingredients for making non-Italian carbonara](/img/spaghetti-carbonara-ingredients.jpg)
+![Ingredients for making non-Italian carbonara](/images/spaghetti-carbonara-ingredients.jpg)

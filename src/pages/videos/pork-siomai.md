@@ -3,7 +3,7 @@ templateKey: video-post
 title: Pork Siomai
 date: 2012-10-09
 description: The Official Philippine National Dumpling
-coverImage: /img/pork-siomai-01.jpg
+coverImage: /images/pork-siomai-01.jpg
 youtube: "LkVlK6TKePc"
 tags:
     - pork
@@ -25,14 +25,14 @@ Siomai comes in different varieties and flavor mutations but we love the classic
 * wanton wrapper
 * salt and black pepper to taste
 
-![Sesame oil and shredded vegetables](/img/sesame-oil-carrots.jpg)
+![Sesame oil and shredded vegetables](/images/sesame-oil-carrots.jpg)
 
 ### The Dip
 * 2 teaspoons soy sauce
 * 1 teaspoon lemon juice
 * spicy chili-garlic paste
 
-![Shredder, carrot and spring onion](/img/shredder-carrots-onion.jpg)
+![Shredder, carrot and spring onion](/images/shredder-carrots-onion.jpg)
 
 ### Quick Tips
 * If you are buying your meat from the market or meatshop, choose pork cut with layers of fat like pork belly and have it grounded twice to make finer textured dumplings.
@@ -41,7 +41,7 @@ Siomai comes in different varieties and flavor mutations but we love the classic
 
 Please [SUBSCRIBE to the Ulam Pinoy Channel](http://www.youtube.com/user/ulampinoy). *Salamat!*
 
-![Pork siomai](/img/pork-siomai-01.jpg)
+![Pork siomai](/images/pork-siomai-01.jpg)
 
 
 

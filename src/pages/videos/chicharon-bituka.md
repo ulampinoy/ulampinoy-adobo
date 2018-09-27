@@ -2,7 +2,7 @@
 templateKey: video-post
 date: 2012-10-20
 description: Crispy and crunchy cracklings made from pork intestines
-coverImage: /img/chicharon-bituka.jpg
+coverImage: /images/chicharon-bituka.jpg
 title: Tsitsarong Bituka
 youtube: "ANOIpWdKJ8g"
 tags:
@@ -24,7 +24,7 @@ Crispy and crunchy cracklings made from pork intestines. Classic pulutan or appe
 * 1 clove garlic, crushed
 * dash of salt and pepper
 
-![Crispy and crunchy cracklings with spiced vinegar dip](/img/chicharon-bituka.jpg)
+![Crispy and crunchy cracklings with spiced vinegar dip](/images/chicharon-bituka.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

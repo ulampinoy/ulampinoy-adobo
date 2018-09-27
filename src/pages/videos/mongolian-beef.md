@@ -3,7 +3,7 @@ templateKey: video-post
 title: Mongolian Beef
 date: 2017-01-30T24:04:44.000Z
 description: Napakasarap at madaling lutuing beef stir-fry na saktong-sakto ulam.
-coverImage: /img/mongolian-beef.jpg
+coverImage: /images/mongolian-beef.jpg
 youtube: jrF4z3fjphA
 tags:
   - beef

@@ -62,7 +62,7 @@ BlogPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  cover: PropTypes.string,
+  coverImage: PropTypes.string,
   whetter: PropTypes.string,
   sideNote: PropTypes.func,
   sideImage: PropTypes.string,

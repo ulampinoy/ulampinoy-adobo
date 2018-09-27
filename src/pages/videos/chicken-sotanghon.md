@@ -4,7 +4,7 @@ title: Chicken Sotanghon
 date: 2012-11-28
 description: Vermicelli chicken noodle soup
 youtube: "W-5lRLncO6c"
-coverImage: /img/chicken-sotanghon.jpg
+coverImage: /images/chicken-sotanghon.jpg
 tags:
     - chicken
 ---
@@ -26,7 +26,7 @@ Got colds or just feeling cold? Here is a delicious way to get well and stay war
 * green onions &toasted garlic
 * chili oil
 
-![Also known as glass noodles](/img/vermecelli-noodles.jpg)
+![Also known as glass noodles](/images/vermecelli-noodles.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

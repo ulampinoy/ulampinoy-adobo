@@ -15,12 +15,11 @@ module.exports = {
     {
       resolve: "gatsby-source-filesystem",
       options: {
-        path: `${__dirname}/src/img`,
+        path: `${__dirname}/src/images`,
         name: "images"
       }
     },
-    "gatsby-plugin-sharp",
-    "gatsby-transformer-sharp",
+    "gatsby-plugin-offline",
     "gatsby-remark-embed-video",
     "gatsby-remark-responsive-iframe",
     {
@@ -40,7 +39,7 @@ module.exports = {
               maxWidth: 1024,
               showCaptions: true,
               linkImagesToOriginal: true,
-              wrapperStyle: "margin-top:2rem; margin-bottom:1rem",
+              wrapperStyle: "margin-top:2rem; margin-bottom:1rem"
             }
           }
         ]
@@ -51,9 +50,11 @@ module.exports = {
       options: {
         trackingId: "UA-24666876-1",
         // Puts tracking script in the head instead of the body
-        head: true,
+        head: true
       }
     },
+    "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-plugin-netlify-cms",
       options: {

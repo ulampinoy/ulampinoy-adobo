@@ -4,7 +4,7 @@ title: Grilled Fish
 date: 2011-09-10
 description: Grilled fish stuffed with chopped garlic, onions and tomatoes
 youtube: "Yql5BgpEk"
-coverImage: /img/inihaw-isda.jpg
+coverImage: /images/inihaw-isda.jpg
 tags:
   - fish
   - grill
@@ -19,7 +19,7 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 * 3 gloves garlic
 * salt & black pepper
 
-![Grilled Dorada fish](/img/grilled-fish-dorada.jpg)
+![Grilled Dorada fish](/images/grilled-fish-dorada.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

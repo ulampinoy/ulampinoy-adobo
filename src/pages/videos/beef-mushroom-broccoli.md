@@ -3,7 +3,7 @@ templateKey: video-post
 title: Beef Mushroom Broccoli
 date: 2011-09-02
 description: Beef, mushroom and broccoli stir fry
-coverImage: /img/beef-mushroom-broccoli-01.jpg
+coverImage: /images/beef-mushroom-broccoli-01.jpg
 youtube: "0PAzB0PqG80"
 tags:
   - beef
@@ -26,7 +26,7 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 - salt and pepper
 - quail eggs for garnish
 
-![Beef mushroom broccoli](/img/beef-mushroom-broccoli-02.jpg)
+![Beef mushroom broccoli](/images/beef-mushroom-broccoli-02.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

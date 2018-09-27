@@ -3,7 +3,7 @@ templateKey: video-post
 title: Beef Nilaga
 date: 2011-10-09
 description: Beef stew with vegetables
-coverImage: /img/beef-nilaga.jpg
+coverImage: /images/beef-nilaga.jpg
 youtube: "JYdn6-QMjqA"
 tags:
     - beef

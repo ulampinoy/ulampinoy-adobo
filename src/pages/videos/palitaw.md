@@ -3,7 +3,7 @@ templateKey: video-post
 title: Palitaw
 date: 2012-10-15
 description: Rice cakes topped with shredded coconut, sugar and sesame seeds
-coverImage: /img/palitaw-01.jpg
+coverImage: /images/palitaw-01.jpg
 youtube: "Lf4qji5-jh8"
 tags:
     - dessert
@@ -21,7 +21,7 @@ Classic Pinoy dessert of rice cakes topped with shredded coconut, sugar and sesa
 * 1 1/2 cup water, for the dough
 * 1 big pot of boiling water for cooking the rice cakes
 
-![Palitaw](/img/palitaw-01.jpg)
+![Palitaw](/images/palitaw-01.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

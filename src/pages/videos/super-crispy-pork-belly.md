@@ -4,7 +4,7 @@ title: Super Crispy Pork Belly
 date: 2013-11-08
 description: Malutong na liempo
 youtube: "RuIpEBZwgdk"
-coverImage: /img/super-crispy-liempo.jpg
+coverImage: /images/super-crispy-liempo.jpg
 tags:
     - pork
 ---
@@ -17,12 +17,12 @@ Easy to make crispy pork belly recipe!
 * Laurel
 * Peppercorns
 
-![Salt liberally the pork belly](/img/pork-belly-fresh.jpg)
+![Salt liberally the pork belly](/images/pork-belly-fresh.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.
 
 `youtube:https://www.youtube.com/embed/RuIpEBZwgdk`
 
-![Pork crackling with dip](/img/crispy-pork-belly-plated.jpg)
+![Pork crackling with dip](/images/crispy-pork-belly-plated.jpg)
 

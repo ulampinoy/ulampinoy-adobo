@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
-import logo from '../img/logo.svg'
+import logo from '../images/logo.svg'
 
 const Navbar = () => (
   <header>

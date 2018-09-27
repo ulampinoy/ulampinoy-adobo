@@ -3,7 +3,7 @@ templateKey: video-post
 title: Beef Mechado
 date: 2012-11-28
 description: Hearty beef stew slowly cooked in tomatoes, potatoes and vegetables
-coverImage: /img/beef-mechado.jpg
+coverImage: /images/beef-mechado.jpg
 youtube: "YMd408JUZRw"
 tags:
   - beef

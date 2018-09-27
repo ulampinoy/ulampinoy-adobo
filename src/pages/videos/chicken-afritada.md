@@ -3,7 +3,7 @@ templateKey: video-post
 title: Chicken Afritada
 date: 2013-11-29T24:04:44.000Z
 description: Tomato-based chicken stew with carrots, bell pepper, and potatoes.
-coverImage: /img/chicken-afritada-pot.jpg
+coverImage: /images/chicken-afritada-pot.jpg
 whetter: One pot chicken goodness
 youtube: "YKF7N-6_PuI"
 tags:
@@ -27,7 +27,7 @@ Easy to make one-pot chicken dish with vegetables. You can make a large batch an
 * Patis (fish sauce)
 * Salt and black pepper to taste
 
-![Cut into bite-size piece](/img/vegetable-cut-chopping-board.jpg)
+![Cut into bite-size piece](/images/vegetable-cut-chopping-board.jpg)
 
 ### Procedure
 

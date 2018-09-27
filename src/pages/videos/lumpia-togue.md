@@ -3,7 +3,7 @@ templateKey: video-post
 title: Lumpiang Togue
 date: 2011-08-24
 description: Spring rolls stuffed with sprouts, tofu, pork and vegetables
-coverImage: /img/lumpia-togue.jpg
+coverImage: /images/lumpia-togue.jpg
 youtube: "qLvX6UMFDUI"
 tags:
     - pork
@@ -33,7 +33,7 @@ Spring rolls stuffed with mung bean sprouts, tofu, pork and vegetables.
 
 Enjoy!
 
-![Ready to fry](/img/lumpia-togue-fresh.jpg)
+![Ready to fry](/images/lumpia-togue-fresh.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

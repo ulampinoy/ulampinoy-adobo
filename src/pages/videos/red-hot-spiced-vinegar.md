@@ -4,7 +4,7 @@ title: Red Hot Spiced Vinegar
 date: 2013-12-12T24:04:44.000Z
 description: Maanghang na sawsawang gawa sa suka, bawang at sili
 youtube: "Vf1-PuCyGt0"
-coverImage: /img/hot-spiced-vinegar-01.jpg
+coverImage: /images/hot-spiced-vinegar-01.jpg
 whetter: Sawsaw suka...mahuli taya!
 tags:
   - dip

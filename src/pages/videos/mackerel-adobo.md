@@ -3,7 +3,7 @@ templateKey: video-post
 title: Mackerel Adobo
 date: 2012-11-05
 description: Karne ng baka na may sarsang gawa sa tomato sauce at liver spread
-coverImage: /img/adobo-mackerel.jpg
+coverImage: /images/adobo-mackerel.jpg
 youtube: "4L4M7GxjBRw"
 tags:
   - fish
