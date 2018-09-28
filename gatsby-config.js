@@ -19,7 +19,8 @@ module.exports = {
         name: "images"
       }
     },
-    "gatsby-plugin-offline",
+    "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     "gatsby-remark-embed-video",
     "gatsby-remark-responsive-iframe",
     {
@@ -53,8 +54,6 @@ module.exports = {
         head: true
       }
     },
-    "gatsby-transformer-sharp",
-    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-plugin-netlify-cms",
       options: {
