@@ -43,7 +43,7 @@ Watch and cook-along with the video recipe.
 
 `youtube:https://www.youtube.com/embed/4L4M7GxjBRw`
 
-![Adobong galunggong](./images/soy-mackerel.jpg)
+![Adobong galunggong](/images/soy-mackerel.jpg)
 
 Garnish with pimientos del piquillo & drizzle with extra-virgin olive oli. As always served with steamed rice. Goes well with beer.
 

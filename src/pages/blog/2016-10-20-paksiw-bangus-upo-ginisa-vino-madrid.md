@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Paksiw na Bangus, Ginisang Upo at Vino de Madrid
 date: 2016-10-20T22:17:48+02:00
 description: Masarap at matinik na paksiw na bangus; manamis-namis na upo na ginisa sa baboy; red wine na may Braille...
-coverImage: ./images/puerta-de-alcala-tempranillo-syrah.jpg
+coverImage: /images/puerta-de-alcala-tempranillo-syrah.jpg
 whetter: Tsibog sa Weekend 03
 tags:
     - weekend bits

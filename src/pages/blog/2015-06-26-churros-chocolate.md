@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Churros & Chocolate
 date: 2015-06-26T18:01:44Z
-description: When visiting Madrid, one shou
+description: When visiting Madrid, one should try churrros y chocolate
 whetter: Madrid Must Have
 coverImage: /images/churros-dip.jpg
 tags:
