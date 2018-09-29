@@ -35,7 +35,7 @@ collections:
 
   - name: "glossary"
     label: "Glossary"
-    folder: "src/pages/glossary"
+    folder: "src/pages/glossary/{{ slug }}"
     create: true
     slug: "{{slug}}"
     fields:
