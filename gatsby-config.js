@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: "Ulampinoy"
+    title: "Ulampinoy",
+    descriptiom: "Home cooking online reference and a Filipino family journal living outside the Philippines"
   },
   plugins: [
     "gatsby-plugin-react-helmet",
