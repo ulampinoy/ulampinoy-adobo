@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Lechon Manok ala Crock-Pot®
+title: 🍗 Lechon Manok ala Crock-Pot
 date: 2018-10-29T23:40:01+02:00
-description: Napadaling ihanda at napakasarap, kailangan lang ng panahaon
+description: Madaling ihanda at napakasarap na litson manok
 whetter: Kapag may tiyaga, may nilaga (o litson!)
-sideNote: Ang pagluluto gamit ang Crock Pot ay ...
-sideImage:
+sideNote: Ang Crock-Pot ay brand ng slow-cooker na dahan-dahang nagluluto sapamamagitan ng kulob, at pantay-pantay na init. Ang lutuan ay gawa sa ceramica at ang yari nito ay may kakayahang ikalat ang init sa kabuan ng lutuan at hindi lang sa ilalim. Ang epekto nito ay parang magpapasingaw pero sa pantay na temperatura sa mahabang panahon. Ang resulta ay mas malasa at mas malabó ang tekstura ng nilutong pagkain.
+sideImage: /images/crock-pot-chicken-set-timer.jpg
 coverImage: /images/crock-pot-lechon-manok.jpg
 tags:
   - recipe
@@ -14,13 +14,11 @@ tags:
   - crock pot
 ---
 
-Iba't-iba ang paraan para mag-litson ng manok—sa uling, oven, turbo-broiler, atbp. Patok na patok sa Pilipinas ang litson manok dahil ito ay instant pero espesyal na ulam. Dahil meron sa halos lahat ng kanto na mabibilihan, bakit ka pa mag-aabla na gawin sa bahay? 
+Iba't-iba ang paraan para mag-litson ng manok—sa uling, oven, turbo-broiler, atbp. Patok na patok sa Pilipinas ang litson manok dahil ito ay instant pero espesyal na ulam. Dahil meron sa halos lahat ng kanto na mabibilihan, bakit ka pa mag-aabla na gawin ito sa bahay? 
 
-Dito sa España, kung *pollo asado* (o ang lokal na bigkas ay may tunog na 'poyo asaw') ang hanap mo, meron at meron kang matatagpuang malapit sa bahay mo.
+Dito sa España, kung ang hanap mo ay litson manok o *pollo asado* (sa lokal na bigkas ay may tunog na 'poyo-asaw'), meron at meron kang matatagpuang malapit sa bahay mo. Kaya sa maraming bersyon na natikman mo, panahon na para gawin ang sarili mong bersyon. Narito ang isa sa aming beryon ng litson manok! 
 
-Kaya sa maraming bersyon na natikman mo, panahon na para gawin ang sarili mong bersyon. Narito ang isa sa aming beryon ng litson manok! 
-
-Gamit ang Crock-Pot, isang slow-cooker na magpapalambot at magpapalasa sa loob at labas ng manok dahil sa pantay-pantay at tuloy-tuloy na init na ibinigay nito sa dahan-dahan nitong paraan ng pagluluto. Ang resulta ay malambot, makatatas at doubleng linamnam. Ang tekstura ay sa paano naiiba, mahirap ipaliwang kailangan mong matikman!
+Gamit ang Crock-Pot®, sa paraan ng slow-cooking, nanuuot ang lasa at napapalambot pero hindi nadudurog. Ang resulta ay malambot, makatatas at doubleng linamnam. Ang tekstura ay sa paano naiiba, mahirap ipaliwang kailangan mong matikman!
 
 ### Mga Sangkap
 * Buong manok (dressed chicken)
@@ -49,7 +47,19 @@ Tiyaking wala ng balahibo ang naibiling manok! Iyan ang number one na dapat tiya
 ![Time set to cook chicken in Crock-Pot](/images/crock-pot-chicken-set-timer.jpg)
 **Mahalagang babala:** Huwag na huwag kailanman bubuksan kapag kasalukuyan at lalo na sa kalagitnaan ng pagluluto. Ang na-trap na init kapag sumingaw dahil inangat mo ang takip ay nangangailan ng panahon para maipon uli.
 ![Chicken recently cooked from slow cooker](/images/chicken-crock-pot-cook-3hrs.jpg)
-Hanguin mula sa Crock-pot ang manok makalipas ang cooking time nito. Handa na ito para tapusin sa oven. Gamit ang **Broil — TOP** setting ng horno, ilagay ang manok sa gitnang rack ng oven at lutuin ito para papulahin ang balat nito at ma-lechon sa loob ng hindi lalampas sa 10 minuto.
+Hanguin mula sa Crock-pot ang manok makalipas ang cooking time nito. Handa na ito para tapusin sa oven. Gamit ang **Broil — TOP** setting ng horno, ilagay ang manok sa gitnang rack ng oven at lutuin para papulahin ang balat nito at ma-lechon ng hindi lalampas sa 10 minuto. At ganito ang kalalabasan:
+![Roasted chicken out of oven](/images/lechon-manok-oven.jpg)
+
+Ang recipeng ito ay napakasarap at napakadaling gawin. Iwan mo at pagbalik mo may masarap ka ng ulam na parang inorder mo sa restaurant, pero higit pa kung sa lasa lang ang pag-uusapan!
+
+![Roasted chicken ala Crock-pot](/images/crock-pot-lechon-manok.jpg)
+
+![Roasted chicken with vegetable salad](/images/lechon-manok-salad.jpg)
+Masarap na itambal dito ay ensalada ng iba't-ibang sariwang talbos ng gulay, *crab meat sticks* bilang garnish na nagbibigay ng contrast sa lasa. 
+
+Kainan na!🥗🍗
+
+
 
 
 
