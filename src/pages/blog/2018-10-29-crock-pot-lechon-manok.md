@@ -57,9 +57,4 @@ Ang recipeng ito ay napakasarap at napakadaling gawin. Iwan mo at pagbalik mo ma
 ![Roasted chicken with vegetable salad](/images/lechon-manok-salad.jpg)
 Masarap na itambal dito ay ensalada ng iba't-ibang sariwang talbos ng gulay, *crab meat sticks* bilang garnish na nagbibigay ng contrast sa lasa. 
 
-Kainan na! 🥗🍗
-
-
-
-
-
+Kainan na! 🍗🥗🍗
