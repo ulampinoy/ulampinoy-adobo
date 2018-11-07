@@ -28,7 +28,7 @@ Gamit ang Crock-Pot®, sa paraan ng slow-cooking, nanuuot ang lasa at napapalamb
 * Mga aromatikong yerba (albahaca, perejil, oregano, tomilo, romero at cayena)
 * Opsyonal: lemon at green onions 
 
-![Mga sangkap ng litson manok](/images/sangkap-litson-manok.jpg)
+<img class="wide" src="/images/sangkap-litson-manok.jpg" alt="Mga sangkap ng litson manok">
 
 ### Paraan ng pagluluto
 Tiyaking wala ng balahibo ang naibiling manok! Iyan ang number one na dapat tiyakin.
@@ -44,11 +44,14 @@ Tiyaking wala ng balahibo ang naibiling manok! Iyan ang number one na dapat tiya
     * ![Herb-rubbed chicken in Crock-Pot](/images/herbed-rub-whole-chicken-crock-pot.jpg)
 
 4. I-set ang Crock-Pot sa **High** at taymeran ng **3.5 hours** ilagay ng lapat na lapat ang takip. 
-![Time set to cook chicken in Crock-Pot](/images/crock-pot-chicken-set-timer.jpg)
+
+<img class="wide" src="/images/crock-pot-chicken-set-timer.jpg" alt="Time set to cook chicken in Crock-Pot">
+
 **Mahalagang babala:** Huwag na huwag kailanman bubuksan kapag kasalukuyan at lalo na sa kalagitnaan ng pagluluto. Ang na-trap na init kapag sumingaw dahil inangat mo ang takip ay nangangailan ng panahon para maipon uli.
 ![Chicken recently cooked from slow cooker](/images/chicken-crock-pot-cook-3hrs.jpg)
 Hanguin mula sa Crock-pot ang manok makalipas ang cooking time nito. Handa na ito para tapusin sa oven. Gamit ang **Broil — TOP** setting ng horno, ilagay ang manok sa gitnang rack ng oven at lutuin para papulahin ang balat nito at ma-lechon ng hindi lalampas sa 10 minuto. At ganito ang kalalabasan:
-![Roasted chicken out of oven](/images/lechon-manok-oven.jpg)
+
+<img class="wide" src="/images/lechon-manok-oven.jpg" alt="Roasted chicken out of oven">
 
 Ang recipeng ito ay napakasarap at napakadaling gawin. Iwan mo at pagbalik mo may masarap ka ng ulam na parang inorder mo sa restaurant, pero higit pa kung sa lasa lang ang pag-uusapan!
 

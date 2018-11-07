@@ -45,9 +45,9 @@ export const BlogPostTemplate = ({
           <h5>{date}</h5>
           </article>
           <aside>
+            <div className="side-note">
             <div className="liner" />
             <h4>Alam mo ba?</h4>
-            <div className="side-note">
               <p>{sideNote}</p>
               <img src={sideImage} />
             </div>
