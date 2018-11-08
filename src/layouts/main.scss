@@ -185,12 +185,12 @@ article {
   }
 
   div {
-    p:first-child {
+    & > p:first-child {
       @supports (initial-letter: 2) or (-webkit-initial-letter: 2) {
         &:first-letter {
-          -webkit-initial-letter: 3 2;
-          initial-letter: 3 2;
-          margin: 0 .6rem 0 0;
+          -webkit-initial-letter: 2 2;
+          initial-letter: 2 2;
+          margin: 0 0.6rem 0 0;
         }
       }
     }
@@ -393,10 +393,6 @@ figure {
     grid-gap: 2rem;
   }
 
-  @media only screen and (min-width: 960px) {
-    border-left: 1px solid #f0f0f0;
-    padding-left: 2rem;
-  }
 }
 
 .whetter,
@@ -455,6 +451,13 @@ h5 {
 }
 
 aside {
+  padding: 0;
+  .aside-wrapper {
+    padding: 0 2rem;
+    @media only screen and (min-width: 960px) {
+      border-left: 1px solid #f0f0f0;
+    }
+  }
   .liner {
     margin-top: 0;
   }
@@ -473,7 +476,7 @@ aside {
 
     p {
       font-size: 1rem;
-      margin: .5rem 0;
+      margin: 0.5rem 0;
     }
   }
 }

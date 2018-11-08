@@ -1,9 +1,9 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { kebabCase } from "lodash";
+import Helmet from "react-helmet";
+import Link from "gatsby-link";
+import Content, { HTMLContent } from "../components/Content";
 
 export const BlogPostTemplate = ({
   content,
@@ -16,16 +16,19 @@ export const BlogPostTemplate = ({
   sideNote,
   sideImage,
   date,
-  helmet,
+  helmet
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
-  return <section>
+  return (
+    <section>
       {helmet || ""}
       <div className="wrapper">
         <div className="billboard">
-          <div className="billboard-image" style={{ backgroundImage: `url(${coverImage})`}}>
-          </div>
+          <div
+            className="billboard-image"
+            style={{ backgroundImage: `url(${coverImage})` }}
+          />
         </div>
         <div className="gridPost">
           <article>
@@ -33,29 +36,35 @@ export const BlogPostTemplate = ({
             <h1>{title}</h1>
             <p className="article-desc">{description}</p>
             <PostContent content={content} />
-            {tags && tags.length ?
-            <div className="tags">
-              <div className="liner" />
-              <ul className="tags-list">
-                {tags.map(tag => <li key={tag + `tag`}>
-                    <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                  </li>)}
-              </ul>
-            </div> : null}
-          <h5>{date}</h5>
+            {tags && tags.length ? (
+              <div className="tags">
+                <div className="liner" />
+                <ul className="tags-list">
+                  {tags.map(tag => (
+                    <li key={tag + `tag`}>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ) : null}
+            <h5>{date}</h5>
           </article>
           <aside>
-            <div className="side-note">
-            <div className="liner" />
-            <h4>Alam mo ba?</h4>
-              <p>{sideNote}</p>
-              <img src={sideImage} />
+            <div className="aside-wrapper">
+              <div className="liner" />
+              <h4>Alam mo ba?</h4>
+              <div className="side-note">
+                <p>{sideNote}</p>
+                <img src={sideImage} />
+              </div>
             </div>
           </aside>
         </div>
       </div>
-    </section>;
-}
+    </section>
+  );
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.string.isRequired,
@@ -66,11 +75,11 @@ BlogPostTemplate.propTypes = {
   whetter: PropTypes.string,
   sideNote: PropTypes.func,
   sideImage: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
-}
+  helmet: PropTypes.instanceOf(Helmet)
+};
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <BlogPostTemplate
@@ -86,16 +95,16 @@ const BlogPost = ({ data }) => {
       sideImage={post.frontmatter.sideImage}
       date={post.frontmatter.date}
     />
-  )
-}
+  );
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
+    markdownRemark: PropTypes.object
+  })
+};
 
-export default BlogPost
+export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -114,4 +123,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
